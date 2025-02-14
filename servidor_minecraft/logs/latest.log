@@ -826,3 +826,124 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Feb2025 15:09:21.710] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
 [14Feb2025 15:09:47.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -2754.500000, 46.500000, 1535.500000]
 [14Feb2025 15:11:38.851] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[14Feb2025 15:18:04.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -2881.500000, 64.500000, 1551.500000]
+[14Feb2025 15:18:09.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -2837.500000, 95.500000, 1483.500000]
+[14Feb2025 15:18:44.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto died
+[14Feb2025 15:18:44.417] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[14Feb2025 15:19:02.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -2855.500000, 71.500000, 1485.500000]
+[14Feb2025 15:19:59.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[14Feb2025 15:19:59.593] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "net.minecraft.world.entity.Entity.m_9236_()" because "_ent" is null
+	Index: 28
+	Listeners:
+		0: HIGHEST
+		1: ASM: class ovh.corail.tombstone.event.EventHandler onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		2: HIGH
+		3: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		4: NORMAL
+		5: ASM: net.mcreator.crystalcraftunlimitedjava.CrystalcraftUnlimitedJavaMod@53d10a16 tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		6: ASM: net.mcreator.stalwartdungeons.StalwartDungeonsMod@305014aa tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		7: net.minecraftforge.eventbus.EventBus$$Lambda$4292/0x0000715128b55558@557d8acb
+		8: ASM: net.mcreator.sharks.BenssharksMod@7ac9a7ac tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		9: ASM: net.mcreator.enemyexpansion.EnemyexpansionMod@1e8c6918 tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		10: ASM: net.mcreator.bossominium.BossominiumMod@61017832 tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		11: ASM: net.mcreator.moreredstonelamp.LampcraftingMod@3983fe96 tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		12: ASM: class fathertoast.crust.common.mode.CrustModeEvents onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		13: ASM: class fathertoast.crust.common.core.CrustForgeEvents onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		14: ASM: class fathertoast.crust.api.lib.DeferredAction onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		15: ASM: fr.rakambda.fallingtree.forge.event.LeafBreakingListener@43f860 onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		16: ASM: class dev.xkmc.l2library.init.events.GeneralEventHandler serverTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		17: ASM: class dev.xkmc.l2damagetracker.events.GeneralEventHandler onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		18: ASM: class dev.xkmc.l2damagetracker.contents.attack.AttackEventHandler onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		19: ASM: net.mcreator.hsbosses.HsBossesMod@3ae4bd2f tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		20: ASM: net.mcreator.thalassophobia.ThalassophobiaMod@63408107 tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		21: ASM: com.mrcrayfish.framework.event.ForgeEvents@6be92ce8 onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		22: ASM: net.mcreator.warbrode.WardrobeMod@7ca98d8a tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		23: ASM: class dev.xkmc.l2complements.events.MagicEventHandler onTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		24: ASM: net.mcreator.thebackroomsmodtwo.TheBackroomsLoxorMod@6cceed92 tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		25: ASM: net.mcreator.selfexpression.SelfexpressionMod@211ec63 tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		26: ASM: net.minecraftforge.common.ForgeInternalHandler@2538f1c9 onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		27: ASM: net.mram.MoreRecipesAndMoreMod@4a574eee tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		28: ASM: net.mcreator.boh.BohMod@40c7f45 tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		29: ASM: net.mcreator.undeadrevamp.UndeadRevamp2Mod@94749ef tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		30: ASM: net.mcreator.threateninglymobs.ThreateninglyMobsMod@a914e3b tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		31: ASM: crumbs.trueherobrine.TrueHerobrineMod@2c5f357f tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		32: ASM: class net.geforcemods.securitycraft.SCEventHandler onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		33: ASM: class com.direwolf20.buildinggadgets2.common.events.ServerTickHandler handleTickEndEvent(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		34: LOWEST
+		35: ASM: com.github.alexthe666.citadel.ServerProxy@6f04e31f onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		36: ASM: ovh.corail.tombstone.proxy.ServerProxy@29c17419 onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_9236_()" because "_ent" is null
+	at TRANSFORMER/boh@0.0.7/net.mcreator.boh.procedures.InkDemonOnEntityTickUpdateProcedure.lambda$execute$4(InkDemonOnEntityTickUpdateProcedure.java:58)
+	at TRANSFORMER/boh@0.0.7/net.mcreator.boh.BohMod.lambda$tick$2(BohMod.java:96)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at TRANSFORMER/boh@0.0.7/net.mcreator.boh.BohMod.tick(BohMod.java:96)
+	at TRANSFORMER/boh@0.0.7/net.mcreator.boh.__BohMod_tick_ServerTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.event.ForgeEventFactory.onPostServerTick(ForgeEventFactory.java:950)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:835)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[14Feb2025 15:19:59.594] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Encountered an unexpected exception
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_9236_()" because "_ent" is null
+	at net.mcreator.boh.procedures.InkDemonOnEntityTickUpdateProcedure.lambda$execute$4(InkDemonOnEntityTickUpdateProcedure.java:58) ~[boh-0.0.7.1-forge-1.20.1.jar%23230!/:?]
+	at net.mcreator.boh.BohMod.lambda$tick$2(BohMod.java:96) ~[boh-0.0.7.1-forge-1.20.1.jar%23230!/:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at net.mcreator.boh.BohMod.tick(BohMod.java:96) ~[boh-0.0.7.1-forge-1.20.1.jar%23230!/:?]
+	at net.mcreator.boh.__BohMod_tick_ServerTickEvent.invoke(.dynamic) ~[boh-0.0.7.1-forge-1.20.1.jar%23230!/:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPostServerTick(ForgeEventFactory.java:950) ~[forge-1.20.1-47.3.7-universal.jar%23338!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:835) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[14Feb2025 15:19:59.644] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 344c73fb-ed23-4d25-b0ba-2cd9d0e939b9
+[14Feb2025 15:19:59.644] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: This crash report has been saved to: /workspaces/wekito/servidor_minecraft/./crash-reports/crash-2025-02-14_15.19.59-server.txt
+[14Feb2025 15:19:59.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Feb2025 15:19:59.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Feb2025 15:19:59.680] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liraanto lost connection: Server closed
+[14Feb2025 15:19:59.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto left the game
+[14Feb2025 15:19:59.680] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[14Feb2025 15:19:59.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Feb2025 15:20:00.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14Feb2025 15:20:01.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[14Feb2025 15:20:01.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:boiler_room_dimension
+[14Feb2025 15:20:01.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_0
+[14Feb2025 15:20:01.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_2
+[14Feb2025 15:20:01.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[14Feb2025 15:20:01.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14Feb2025 15:20:01.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:level_0
+[14Feb2025 15:20:01.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_3
+[14Feb2025 15:20:01.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_4
+[14Feb2025 15:20:01.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:gaster_dimension
+[14Feb2025 15:20:01.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_5
+[14Feb2025 15:20:01.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_1
+[14Feb2025 15:20:01.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14Feb2025 15:20:01.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Feb2025 15:20:01.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[14Feb2025 15:20:01.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (boiler_room_dimension): All chunks are saved
+[14Feb2025 15:20:01.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[14Feb2025 15:20:01.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_2): All chunks are saved
+[14Feb2025 15:20:01.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[14Feb2025 15:20:01.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Feb2025 15:20:01.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[14Feb2025 15:20:01.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_3): All chunks are saved
+[14Feb2025 15:20:01.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_4): All chunks are saved
+[14Feb2025 15:20:01.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gaster_dimension): All chunks are saved
+[14Feb2025 15:20:01.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_5): All chunks are saved
+[14Feb2025 15:20:01.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_1): All chunks are saved
+[14Feb2025 15:20:01.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Feb2025 15:20:01.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14Feb2025 15:20:01.190] [Server thread/INFO] [Framework/]: Unloading server configs...
+[14Feb2025 15:20:01.192] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[14Feb2025 15:20:01.195] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[14Feb2025 15:20:59.822] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[14Feb2025 15:20:59.823] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[14Feb2025 15:21:00.885] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 7776d927-5e71-4e0f-ad06-e75881746f16
+[14Feb2025 15:21:00.892] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID cceec57c-bf49-4279-b69c-d6bde1e93cb4
+[14Feb2025 15:21:00.893] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/wekito/servidor_minecraft/./crash-reports/crash-2025-02-14_15.21.00-server.txt

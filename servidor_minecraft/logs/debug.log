@@ -12112,3 +12112,232 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Feb2025 15:11:38.444] [Server thread/DEBUG] [mixin/]: Mixing vanilla.ContainersMixin from biggerstacks.mixins.json into net.minecraft.world.Containers
 [14Feb2025 15:11:38.444] [Server thread/DEBUG] [mixin/]: biggerstacks.mixins.json:vanilla.ContainersMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
 [14Feb2025 15:11:38.851] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[14Feb2025 15:14:08.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Feb2025 15:14:08.684] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Feb2025 15:18:04.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -2881.500000, 64.500000, 1551.500000]
+[14Feb2025 15:18:09.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -2837.500000, 95.500000, 1483.500000]
+[14Feb2025 15:18:44.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto died
+[14Feb2025 15:18:44.365] [Server thread/DEBUG] [tombstone/]: A new grave of the player Liraanto was created at position [x:-2857, y:71, z:1487, dim:minecraft:overworld]
+[14Feb2025 15:18:44.417] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[14Feb2025 15:18:57.074] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['Liraanto'/1312, l='ServerLevel[world]', x=680.50, y=113.00, z=-342.50]
+[14Feb2025 15:18:57.460] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[14Feb2025 15:18:57.460] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to mdeafd53$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[14Feb2025 15:19:02.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -2855.500000, 71.500000, 1485.500000]
+[14Feb2025 15:19:08.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Feb2025 15:19:08.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Feb2025 15:19:59.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[14Feb2025 15:19:59.593] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "net.minecraft.world.entity.Entity.m_9236_()" because "_ent" is null
+	Index: 28
+	Listeners:
+		0: HIGHEST
+		1: ASM: class ovh.corail.tombstone.event.EventHandler onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		2: HIGH
+		3: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		4: NORMAL
+		5: ASM: net.mcreator.crystalcraftunlimitedjava.CrystalcraftUnlimitedJavaMod@53d10a16 tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		6: ASM: net.mcreator.stalwartdungeons.StalwartDungeonsMod@305014aa tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		7: net.minecraftforge.eventbus.EventBus$$Lambda$4292/0x0000715128b55558@557d8acb
+		8: ASM: net.mcreator.sharks.BenssharksMod@7ac9a7ac tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		9: ASM: net.mcreator.enemyexpansion.EnemyexpansionMod@1e8c6918 tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		10: ASM: net.mcreator.bossominium.BossominiumMod@61017832 tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		11: ASM: net.mcreator.moreredstonelamp.LampcraftingMod@3983fe96 tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		12: ASM: class fathertoast.crust.common.mode.CrustModeEvents onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		13: ASM: class fathertoast.crust.common.core.CrustForgeEvents onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		14: ASM: class fathertoast.crust.api.lib.DeferredAction onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		15: ASM: fr.rakambda.fallingtree.forge.event.LeafBreakingListener@43f860 onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		16: ASM: class dev.xkmc.l2library.init.events.GeneralEventHandler serverTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		17: ASM: class dev.xkmc.l2damagetracker.events.GeneralEventHandler onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		18: ASM: class dev.xkmc.l2damagetracker.contents.attack.AttackEventHandler onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		19: ASM: net.mcreator.hsbosses.HsBossesMod@3ae4bd2f tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		20: ASM: net.mcreator.thalassophobia.ThalassophobiaMod@63408107 tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		21: ASM: com.mrcrayfish.framework.event.ForgeEvents@6be92ce8 onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		22: ASM: net.mcreator.warbrode.WardrobeMod@7ca98d8a tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		23: ASM: class dev.xkmc.l2complements.events.MagicEventHandler onTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		24: ASM: net.mcreator.thebackroomsmodtwo.TheBackroomsLoxorMod@6cceed92 tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		25: ASM: net.mcreator.selfexpression.SelfexpressionMod@211ec63 tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		26: ASM: net.minecraftforge.common.ForgeInternalHandler@2538f1c9 onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		27: ASM: net.mram.MoreRecipesAndMoreMod@4a574eee tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		28: ASM: net.mcreator.boh.BohMod@40c7f45 tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		29: ASM: net.mcreator.undeadrevamp.UndeadRevamp2Mod@94749ef tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		30: ASM: net.mcreator.threateninglymobs.ThreateninglyMobsMod@a914e3b tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		31: ASM: crumbs.trueherobrine.TrueHerobrineMod@2c5f357f tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		32: ASM: class net.geforcemods.securitycraft.SCEventHandler onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		33: ASM: class com.direwolf20.buildinggadgets2.common.events.ServerTickHandler handleTickEndEvent(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		34: LOWEST
+		35: ASM: com.github.alexthe666.citadel.ServerProxy@6f04e31f onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		36: ASM: ovh.corail.tombstone.proxy.ServerProxy@29c17419 onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_9236_()" because "_ent" is null
+	at TRANSFORMER/boh@0.0.7/net.mcreator.boh.procedures.InkDemonOnEntityTickUpdateProcedure.lambda$execute$4(InkDemonOnEntityTickUpdateProcedure.java:58)
+	at TRANSFORMER/boh@0.0.7/net.mcreator.boh.BohMod.lambda$tick$2(BohMod.java:96)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at TRANSFORMER/boh@0.0.7/net.mcreator.boh.BohMod.tick(BohMod.java:96)
+	at TRANSFORMER/boh@0.0.7/net.mcreator.boh.__BohMod_tick_ServerTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.event.ForgeEventFactory.onPostServerTick(ForgeEventFactory.java:950)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:835)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[14Feb2025 15:19:59.594] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Encountered an unexpected exception
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_9236_()" because "_ent" is null
+	at net.mcreator.boh.procedures.InkDemonOnEntityTickUpdateProcedure.lambda$execute$4(InkDemonOnEntityTickUpdateProcedure.java:58) ~[boh-0.0.7.1-forge-1.20.1.jar%23230!/:?]
+	at net.mcreator.boh.BohMod.lambda$tick$2(BohMod.java:96) ~[boh-0.0.7.1-forge-1.20.1.jar%23230!/:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at net.mcreator.boh.BohMod.tick(BohMod.java:96) ~[boh-0.0.7.1-forge-1.20.1.jar%23230!/:?]
+	at net.mcreator.boh.__BohMod_tick_ServerTickEvent.invoke(.dynamic) ~[boh-0.0.7.1-forge-1.20.1.jar%23230!/:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPostServerTick(ForgeEventFactory.java:950) ~[forge-1.20.1-47.3.7-universal.jar%23338!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:835) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[14Feb2025 15:19:59.596] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[14Feb2025 15:19:59.596] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[14Feb2025 15:19:59.596] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[14Feb2025 15:19:59.596] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[14Feb2025 15:19:59.596] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+[14Feb2025 15:19:59.596] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[14Feb2025 15:19:59.596] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[14Feb2025 15:19:59.597] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[14Feb2025 15:19:59.597] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[14Feb2025 15:19:59.597] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+[14Feb2025 15:19:59.597] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[14Feb2025 15:19:59.597] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[14Feb2025 15:19:59.597] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[14Feb2025 15:19:59.597] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[14Feb2025 15:19:59.597] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cpu_capacity
+[14Feb2025 15:19:59.598] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[14Feb2025 15:19:59.598] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[14Feb2025 15:19:59.598] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[14Feb2025 15:19:59.598] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[14Feb2025 15:19:59.598] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cpu_capacity
+[14Feb2025 15:19:59.598] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[14Feb2025 15:19:59.611] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+[14Feb2025 15:19:59.613] [Server thread/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@edb83f8
+[14Feb2025 15:19:59.613] [Server thread/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528
+[14Feb2025 15:19:59.626] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[14Feb2025 15:19:59.626] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[14Feb2025 15:19:59.644] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 344c73fb-ed23-4d25-b0ba-2cd9d0e939b9
+[14Feb2025 15:19:59.644] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: This crash report has been saved to: /workspaces/wekito/servidor_minecraft/./crash-reports/crash-2025-02-14_15.19.59-server.txt
+[14Feb2025 15:19:59.645] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[14Feb2025 15:19:59.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Feb2025 15:19:59.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Feb2025 15:19:59.680] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liraanto lost connection: Server closed
+[14Feb2025 15:19:59.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto left the game
+[14Feb2025 15:19:59.680] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[14Feb2025 15:19:59.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Feb2025 15:20:00.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14Feb2025 15:20:01.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[14Feb2025 15:20:01.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:boiler_room_dimension
+[14Feb2025 15:20:01.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_0
+[14Feb2025 15:20:01.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_2
+[14Feb2025 15:20:01.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[14Feb2025 15:20:01.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14Feb2025 15:20:01.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:level_0
+[14Feb2025 15:20:01.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_3
+[14Feb2025 15:20:01.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_4
+[14Feb2025 15:20:01.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:gaster_dimension
+[14Feb2025 15:20:01.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_5
+[14Feb2025 15:20:01.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_1
+[14Feb2025 15:20:01.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14Feb2025 15:20:01.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Feb2025 15:20:01.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Feb2025 15:20:01.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Feb2025 15:20:01.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[14Feb2025 15:20:01.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (boiler_room_dimension): All chunks are saved
+[14Feb2025 15:20:01.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[14Feb2025 15:20:01.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_2): All chunks are saved
+[14Feb2025 15:20:01.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[14Feb2025 15:20:01.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Feb2025 15:20:01.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[14Feb2025 15:20:01.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_3): All chunks are saved
+[14Feb2025 15:20:01.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_4): All chunks are saved
+[14Feb2025 15:20:01.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gaster_dimension): All chunks are saved
+[14Feb2025 15:20:01.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_5): All chunks are saved
+[14Feb2025 15:20:01.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_1): All chunks are saved
+[14Feb2025 15:20:01.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Feb2025 15:20:01.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14Feb2025 15:20:01.190] [Server thread/INFO] [Framework/]: Unloading server configs...
+[14Feb2025 15:20:01.191] [Server thread/DEBUG] [Framework/]: Failed to unwatch config: /workspaces/wekito/servidor_minecraft/config/refurbished_furniture.server.toml
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2358!/:?]
+	at com.mrcrayfish.framework.config.ConfigWatcher.unwatch(ConfigWatcher.java:54) ~[framework-forge-1.20.1-0.7.12.jar%23254!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lambda$unload$7(FrameworkConfigManager.java:399) ~[framework-forge-1.20.1-0.7.12.jar%23254!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lock(FrameworkConfigManager.java:534) ~[framework-forge-1.20.1-0.7.12.jar%23254!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.unload(FrameworkConfigManager.java:396) ~[framework-forge-1.20.1-0.7.12.jar%23254!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.lambda$onServerStopped$7(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23254!/:1.20.1-0.7.12]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.lambda$forEachRemaining$1(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.stream.Streams$RangeIntSpliterator.forEachRemaining(Streams.java:104) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.forEachRemaining(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.onServerStopped(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23254!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$9(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23254!/:1.20.1-0.7.12]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$10(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23254!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.ForgeEvents.onServerStopped(ForgeEvents.java:190) ~[framework-forge-1.20.1-0.7.12.jar%23254!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.__ForgeEvents_onServerStopped_ServerStoppedEvent.invoke(.dynamic) ~[framework-forge-1.20.1-0.7.12.jar%23254!/:1.20.1-0.7.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:133) ~[forge-1.20.1-47.3.7-universal.jar%23338!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:697) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[14Feb2025 15:20:01.192] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[14Feb2025 15:20:01.195] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[14Feb2025 15:20:01.195] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[14Feb2025 15:20:01.195] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[14Feb2025 15:20:01.196] [Config file watcher thread/DEBUG] [portb.configlib.ConfigLib/]: Got ENTRY_MODIFY for easyanvils-server.toml, ignoring
+[14Feb2025 15:20:01.197] [Config file watcher thread/DEBUG] [portb.configlib.ConfigLib/]: Got ENTRY_MODIFY for easyanvils-server.toml, ignoring
+[14Feb2025 15:20:01.199] [Config file watcher thread/DEBUG] [portb.configlib.ConfigLib/]: Got ENTRY_MODIFY for tombstone-server.toml, ignoring
+[14Feb2025 15:20:01.200] [Config file watcher thread/DEBUG] [portb.configlib.ConfigLib/]: Got ENTRY_MODIFY for tombstone-server.toml, ignoring
+[14Feb2025 15:20:01.200] [Config file watcher thread/DEBUG] [portb.configlib.ConfigLib/]: Got ENTRY_MODIFY for tombstone-server.toml, ignoring
+[14Feb2025 15:20:01.200] [Config file watcher thread/DEBUG] [portb.configlib.ConfigLib/]: Got ENTRY_MODIFY for tradingpost-server.toml, ignoring
+[14Feb2025 15:20:01.201] [Config file watcher thread/DEBUG] [portb.configlib.ConfigLib/]: Got ENTRY_MODIFY for tradingpost-server.toml, ignoring
+[14Feb2025 15:20:01.202] [Config file watcher thread/DEBUG] [portb.configlib.ConfigLib/]: Got ENTRY_MODIFY for easymagic-server.toml, ignoring
+[14Feb2025 15:20:01.202] [Config file watcher thread/DEBUG] [portb.configlib.ConfigLib/]: Got ENTRY_MODIFY for easymagic-server.toml, ignoring
+[14Feb2025 15:20:01.202] [Config file watcher thread/DEBUG] [portb.configlib.ConfigLib/]: Got ENTRY_MODIFY for universalbonemeal-server.toml, ignoring
+[14Feb2025 15:20:01.203] [Config file watcher thread/DEBUG] [portb.configlib.ConfigLib/]: Got ENTRY_MODIFY for universalbonemeal-server.toml, ignoring
+[14Feb2025 15:20:59.822] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[14Feb2025 15:20:59.823] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[14Feb2025 15:21:00.845] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[14Feb2025 15:21:00.845] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[14Feb2025 15:21:00.845] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[14Feb2025 15:21:00.845] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[14Feb2025 15:21:00.845] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+[14Feb2025 15:21:00.845] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[14Feb2025 15:21:00.846] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[14Feb2025 15:21:00.846] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[14Feb2025 15:21:00.846] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[14Feb2025 15:21:00.846] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+[14Feb2025 15:21:00.846] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[14Feb2025 15:21:00.846] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[14Feb2025 15:21:00.846] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[14Feb2025 15:21:00.846] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[14Feb2025 15:21:00.846] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cpu_capacity
+[14Feb2025 15:21:00.847] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[14Feb2025 15:21:00.847] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[14Feb2025 15:21:00.847] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[14Feb2025 15:21:00.847] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[14Feb2025 15:21:00.847] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cpu_capacity
+[14Feb2025 15:21:00.847] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[14Feb2025 15:21:00.857] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+[14Feb2025 15:21:00.858] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@edb83f8
+[14Feb2025 15:21:00.858] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528
+[14Feb2025 15:21:00.868] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[14Feb2025 15:21:00.868] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[14Feb2025 15:21:00.885] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 7776d927-5e71-4e0f-ad06-e75881746f16
+[14Feb2025 15:21:00.892] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID cceec57c-bf49-4279-b69c-d6bde1e93cb4
+[14Feb2025 15:21:00.893] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/wekito/servidor_minecraft/./crash-reports/crash-2025-02-14_15.21.00-server.txt
