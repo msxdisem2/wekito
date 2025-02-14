@@ -786,3 +786,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Feb2025 03:28:17.785] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Config file updated
 [14Feb2025 03:29:04.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Gave 512 [Bottle o' Enchanting] to Liraanto]
 [14Feb2025 03:34:29.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Gave 40 experience levels to Liraanto]
+[14Feb2025 03:50:16.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Gave 1 [Lira´s Pico] to Liraanto]
+[14Feb2025 03:55:00.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Gave 1 [Orichalcum Pickaxe] to Liraanto]

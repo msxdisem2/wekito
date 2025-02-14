@@ -12100,3 +12100,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Feb2025 03:35:03.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Feb2025 03:40:03.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Feb2025 03:40:03.507] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Feb2025 03:45:03.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Feb2025 03:45:03.659] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Feb2025 03:50:03.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Feb2025 03:50:03.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Feb2025 03:50:16.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Gave 1 [Lira´s Pico] to Liraanto]
+[14Feb2025 03:55:00.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Gave 1 [Orichalcum Pickaxe] to Liraanto]
+[14Feb2025 03:55:03.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Feb2025 03:55:03.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
