@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "uuid": "da1aea34-f94f-4c04-a190-2c0a05f2249e",
+    "name": "Lira",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2e6e150c-8207-3118-accc-8edfd2b8dd5b",
+    "name": "STRANJO",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "3e86cc10-4157-47d0-9906-faf9816cf1d6",
+    "name": "Stranjo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e3fa7a24-a6b1-32a9-9e1d-42523f649c73",
+    "name": "Liraanto",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
