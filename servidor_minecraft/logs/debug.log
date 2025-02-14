@@ -12097,3 +12097,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Feb2025 19:41:06.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Feb2025 19:46:06.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Feb2025 19:46:06.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Feb2025 19:51:06.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Feb2025 19:51:06.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Feb2025 19:56:06.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Feb2025 19:56:06.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Feb2025 20:01:06.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Feb2025 20:01:06.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Feb2025 20:04:08.424] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/1315, l='ServerLevel[world]', x=676.33, y=117.00, z=-347.68], dimensionLocationPath overworld
+[14Feb2025 20:04:08.575] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/1315, l='ServerLevel[world]', x=676.33, y=117.00, z=-347.68]
+[14Feb2025 20:04:09.574] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/1315, l='ServerLevel[world]', x=676.33, y=117.00, z=-347.68], dimensionLocationPath overworld
+[14Feb2025 20:04:09.574] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Liraanto'/1315, l='ServerLevel[world]', x=676.33, y=117.00, z=-347.68] in list []
+[14Feb2025 20:04:09.976] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/1315, l='ServerLevel[world]', x=676.33, y=117.00, z=-347.68]
+[14Feb2025 20:06:06.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Feb2025 20:06:06.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
