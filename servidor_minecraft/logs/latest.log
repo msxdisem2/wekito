@@ -799,3 +799,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Feb2025 18:18:07.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 914.500000, 113.500000, -477.500000]
 [14Feb2025 18:18:12.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 929.500000, 122.500000, -504.500000]
 [14Feb2025 18:21:12.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 939.500000, 122.500000, -494.500000]
+[14Feb2025 18:31:11.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 919.500000, 120.500000, -502.500000]
