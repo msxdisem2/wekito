@@ -794,3 +794,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Feb2025 18:10:11.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 889.500000, 122.500000, -498.500000]
 [14Feb2025 18:12:12.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 924.500000, 122.500000, -493.500000]
 [14Feb2025 18:12:41.646] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=917, y=121, z=-492} BlockPos{x=918, y=121, z=-492}
+[14Feb2025 18:14:45.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 921.500000, 122.500000, -503.500000]
+[14Feb2025 18:16:58.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[14Feb2025 18:18:07.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 914.500000, 113.500000, -477.500000]
+[14Feb2025 18:18:12.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 929.500000, 122.500000, -504.500000]
+[14Feb2025 18:21:12.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 939.500000, 122.500000, -494.500000]
