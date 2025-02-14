@@ -779,3 +779,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Feb2025 18:47:49.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 914.500000, 120.500000, -499.500000]
 [14Feb2025 18:50:56.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 913.500000, 120.500000, -510.500000]
 [14Feb2025 18:52:24.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 898.500000, 113.500000, -502.500000]
+[14Feb2025 19:02:30.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 679.500000, 117.500000, -348.500000]
+[14Feb2025 19:04:12.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Cover Me with Diamonds]
+[14Feb2025 19:12:34.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Suit Up]
