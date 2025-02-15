@@ -136,6 +136,7 @@
       "minecraft:old_growth_birch_forest": "2025-01-14 15:52:01 +0000",
       "minecraft:deep_dark": "2024-12-27 03:21:02 +0000",
       "minecraft:meadow": "2024-12-24 03:03:56 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-02-15 22:44:11 +0000",
       "minecraft:savanna": "2025-01-07 19:40:37 +0000",
       "minecraft:plains": "2024-12-24 18:58:45 +0000"
     },
@@ -2894,6 +2895,7 @@
       "redwood_forest": "2024-12-28 03:54:35 +0000",
       "wasteland_steppe": "2025-02-13 03:12:05 +0000",
       "dune_beach": "2024-12-29 04:42:17 +0000",
+      "seasonal_forest": "2025-02-15 22:45:46 +0000",
       "volcano": "2025-01-04 03:30:29 +0000",
       "pasture": "2024-12-28 03:35:19 +0000",
       "rocky_rainforest": "2024-12-29 05:14:31 +0000",
@@ -2902,6 +2904,7 @@
       "grassland": "2024-12-29 04:25:54 +0000",
       "prairie": "2024-12-29 04:40:39 +0000",
       "glowing_grotto": "2024-12-24 00:36:47 +0000",
+      "gravel_beach": "2025-02-15 22:46:16 +0000",
       "undergrowth": "2024-12-31 05:16:50 +0000",
       "rainforest": "2024-12-29 04:01:57 +0000"
     },
@@ -2935,6 +2938,7 @@
       "redwood_forest": "2024-12-24 02:49:56 +0000",
       "wasteland_steppe": "2025-02-13 03:12:05 +0000",
       "dune_beach": "2024-12-24 19:07:07 +0000",
+      "seasonal_forest": "2025-02-15 22:45:46 +0000",
       "volcano": "2025-01-04 03:30:29 +0000",
       "pasture": "2024-12-26 05:10:48 +0000",
       "rocky_rainforest": "2024-12-29 05:14:31 +0000",
@@ -2943,6 +2947,7 @@
       "prairie": "2024-12-24 02:47:13 +0000",
       "grassland": "2024-12-29 04:25:54 +0000",
       "glowing_grotto": "2024-12-24 00:36:47 +0000",
+      "gravel_beach": "2025-02-15 22:46:16 +0000",
       "undergrowth": "2024-12-31 05:16:50 +0000",
       "rainforest": "2024-12-25 23:25:21 +0000"
     },
@@ -5415,6 +5420,7 @@
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_zombie_dungeon": "2024-12-24 02:09:36 +0000",
+      "in_better_spider_dungeon": "2025-02-15 22:22:25 +0000",
       "in_better_skeleton_dungeon": "2025-01-20 02:37:09 +0000"
     },
     "done": false
@@ -8533,7 +8539,9 @@
   },
   "alexscaves:alexscaves/discover_dinosaur": {
     "criteria": {
-      "killed_by_vallumraptor": "2024-12-27 05:08:45 +0000"
+      "killed_by_subterranodon": "2025-02-15 22:22:26 +0000",
+      "killed_by_vallumraptor": "2024-12-27 05:08:45 +0000",
+      "killed_subterranodon": "2025-02-15 22:22:26 +0000"
     },
     "done": false
   },
@@ -15891,76 +15899,81 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-15 21:52:50 +0000"
+      "log_spam_fixer": "2025-02-15 23:39:48 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-02-15 21:52:50 +0000"
+      "log_spam_fixer": "2025-02-15 23:39:48 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-02-15 21:52:50 +0000"
+      "log_spam_fixer": "2025-02-15 23:39:48 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-15 21:52:50 +0000"
+      "log_spam_fixer": "2025-02-15 23:39:48 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-02-15 21:52:50 +0000"
+      "log_spam_fixer": "2025-02-15 23:39:48 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-15 21:52:50 +0000"
+      "log_spam_fixer": "2025-02-15 23:39:48 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-15 21:52:50 +0000"
+      "log_spam_fixer": "2025-02-15 23:39:48 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-15 21:52:50 +0000"
+      "log_spam_fixer": "2025-02-15 23:39:48 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-02-15 21:52:50 +0000"
+      "log_spam_fixer": "2025-02-15 23:39:48 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-02-15 21:53:07 +0000",
-      "log_spam_fixer": "2025-02-15 21:52:50 +0000"
+      "log_spam_fixer": "2025-02-15 23:39:48 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-15 21:52:50 +0000"
+      "log_spam_fixer": "2025-02-15 23:39:48 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-15 21:52:50 +0000"
+      "log_spam_fixer": "2025-02-15 23:39:48 +0000"
     },
     "done": false
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-02-15 22:22:25 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
