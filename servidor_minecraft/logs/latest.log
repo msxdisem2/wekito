@@ -801,3 +801,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Feb2025 01:39:11.046] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=838, y=124, z=-524} BlockPos{x=838, y=125, z=-526}
 [15Feb2025 01:39:11.096] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=837, y=125, z=-525} BlockPos{x=838, y=125, z=-526}
 [15Feb2025 01:40:11.598] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=854, y=142, z=-519} BlockPos{x=853, y=143, z=-519}
+[15Feb2025 02:52:09.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [God of thunder]
+[15Feb2025 02:52:34.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [A Radiant Advancement]
