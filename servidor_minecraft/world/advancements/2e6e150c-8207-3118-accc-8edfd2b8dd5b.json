@@ -11747,9 +11747,10 @@
   },
   "l2complements:recipes/misc/craft/totem_of_undying": {
     "criteria": {
-      "has_totem_of_undying": "2024-12-29 04:06:06 +0000"
+      "has_totem_of_undying": "2024-12-29 04:06:06 +0000",
+      "has_the_recipe": "2025-02-15 01:47:12 +0000"
     },
-    "done": false
+    "done": true
   },
   "more_recipes_and_more:totem": {
     "criteria": {
@@ -20994,75 +20995,105 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_throwing_axe_enchanted": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 02:13:50 +0000"
+      "has_totemic_gold_ingot": "2025-02-15 01:47:12 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_kill": {
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_claw_enchanted": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 02:13:50 +0000"
+      "has_totemic_gold_ingot": "2025-02-15 01:47:12 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_inventory_change": {
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_spear_enchanted": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 02:13:50 +0000"
+      "has_totemic_gold_ingot": "2025-02-15 01:47:12 +0000"
     },
     "done": false
   },
-  "incendium:technical/holy_wrath": {
+  "l2complements:recipes/misc/craft/totemic_carrot": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 02:13:50 +0000"
+      "has_totemic_gold_ingot": "2025-02-15 01:47:12 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_block": {
+  "l2complements:recipes/misc/storage/totemic_gold_block_storage": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 02:13:50 +0000"
+      "has_totemic_gold_ingot": "2025-02-15 01:47:12 +0000"
     },
     "done": false
   },
-  "incendium:technical/feed_ghastling": {
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_round_shield_enchanted": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 02:13:50 +0000"
+      "has_totemic_gold_ingot": "2025-02-15 01:47:12 +0000"
     },
     "done": false
   },
-  "incendium:technical/inventory/firestorm": {
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_machete_enchanted": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 02:13:50 +0000"
+      "has_totemic_gold_ingot": "2025-02-15 01:47:12 +0000"
     },
     "done": false
   },
-  "incendium:technical/give_ghastling": {
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_battle_axe_enchanted": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 02:13:50 +0000"
+      "has_totemic_gold_ingot": "2025-02-15 01:47:12 +0000"
     },
     "done": false
   },
-  "incendium:technical/multiplex_crossbow": {
+  "l2complements:recipes/misc/storage/totemic_gold_ingot_unpack": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 02:13:50 +0000"
+      "has_totemic_gold_ingot": "2025-02-15 01:47:12 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_player_hurt": {
+  "l2complements:recipes/misc/craft/enchanted_totemic_apple": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 02:13:50 +0000"
+      "has_totemic_gold_ingot": "2025-02-15 01:47:12 +0000"
     },
     "done": false
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "l2complements:recipes/misc/craft/enchanted_totemic_carrot": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 02:13:50 +0000"
+      "has_totemic_gold_ingot": "2025-02-15 01:47:12 +0000"
     },
     "done": false
   },
-  "incendium:technical/firestorm": {
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_plate_shield_enchanted": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 02:13:50 +0000"
+      "has_totemic_gold_ingot": "2025-02-15 01:47:12 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/craft/totemic_apple": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-02-15 01:47:12 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_nunchaku_enchanted": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-02-15 01:47:12 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_dagger_enchanted": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-02-15 01:47:12 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_hammer_enchanted": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-02-15 01:47:12 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_javelin_enchanted": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-02-15 01:47:12 +0000"
     },
     "done": false
   },
