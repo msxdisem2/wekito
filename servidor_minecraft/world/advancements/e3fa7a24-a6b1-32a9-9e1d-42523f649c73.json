@@ -15303,81 +15303,63 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
+  "aether:recipes/combat/diamond_helmet_repairing": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 20:33:05 +0000"
+      "has_diamond_helmet": "2025-02-14 19:04:01 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_kill": {
+  "aether:recipes/combat/diamond_leggings_repairing": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 20:33:05 +0000"
+      "has_diamond_leggings": "2025-02-14 19:04:12 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_inventory_change": {
+  "aether:recipes/combat/leather_helmet_repairing": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 20:33:05 +0000"
+      "has_leather_helmet": "2025-02-14 19:06:51 +0000"
     },
     "done": false
   },
-  "incendium:technical/holy_wrath": {
+  "aether:recipes/combat/leather_boots_repairing": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 20:33:05 +0000"
+      "has_leather_boots": "2025-02-14 19:06:56 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_block": {
+  "aether:recipes/combat/leather_chestplate_repairing": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 20:33:05 +0000"
+      "has_leather_chestplate": "2025-02-14 19:07:16 +0000"
     },
     "done": false
   },
-  "incendium:technical/feed_ghastling": {
+  "aether:recipes/combat/iron_chestplate_repairing": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 20:33:05 +0000"
+      "has_iron_chestplate": "2025-02-14 19:12:30 +0000"
     },
     "done": false
   },
-  "incendium:technical/inventory/firestorm": {
+  "supplementaries:recipes/soap/map": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 20:33:05 +0000"
+      "has_filled_map": "2025-02-14 19:12:48 +0000"
     },
     "done": false
   },
-  "incendium:technical/give_ghastling": {
+  "aether:recipes/combat/golden_helmet_repairing": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 20:33:05 +0000"
+      "has_golden_helmet": "2025-02-14 19:16:43 +0000"
     },
     "done": false
   },
-  "incendium:technical/multiplex_crossbow": {
+  "aether:recipes/combat/golden_leggings_repairing": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 20:33:05 +0000"
+      "has_golden_leggings": "2025-02-14 19:16:54 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_player_hurt": {
+  "supplementaries:recipes/soap/piston": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 20:33:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 20:33:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 20:33:05 +0000"
-    },
-    "done": false
-  },
-  "l2weaponry:recipes/tools/generated/craft/totemic_gold_throwing_axe_enchanted": {
-    "criteria": {
-      "has_totemic_gold_ingot": "2025-02-14 20:17:04 +0000"
+      "has_sticky_piston": "2025-02-14 19:20:45 +0000"
     },
     "done": false
   },
@@ -15411,63 +15393,15 @@
     },
     "done": false
   },
-  "l2complements:recipes/misc/vanilla/renew/reinforced_deepslate": {
-    "criteria": {
-      "has_warden_bone_shard": "2025-02-14 19:57:08 +0000"
-    },
-    "done": false
-  },
-  "l2weaponry:recipes/enchantments/enchantments/claw_shielding": {
-    "criteria": {
-      "has_warden_bone_shard": "2025-02-14 19:57:08 +0000"
-    },
-    "done": false
-  },
-  "aether:recipes/combat/iron_chestplate_repairing": {
-    "criteria": {
-      "has_iron_chestplate": "2025-02-14 19:12:30 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/combat/armor_copper_metal_leggings": {
-    "criteria": {
-      "has_the_recipe": "2025-02-14 20:04:34 +0000"
-    },
-    "done": false
-  },
   "l2weaponry:recipes/tools/generated/craft/fire_dragonsteel_dagger_enchanted": {
     "criteria": {
       "has_dragonsteel_fire_ingot": "2025-02-14 19:21:09 +0000"
     },
     "done": false
   },
-  "aether:recipes/combat/leather_helmet_repairing": {
-    "criteria": {
-      "has_leather_helmet": "2025-02-14 19:06:51 +0000"
-    },
-    "done": false
-  },
   "l2weaponry:recipes/tools/generated/craft/fire_dragonsteel_plate_shield_enchanted": {
     "criteria": {
       "has_dragonsteel_fire_ingot": "2025-02-14 19:21:09 +0000"
-    },
-    "done": false
-  },
-  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
-    "criteria": {
-      "has_stick": "2025-02-14 19:59:26 +0000"
-    },
-    "done": false
-  },
-  "aether:recipes/combat/golden_helmet_repairing": {
-    "criteria": {
-      "has_golden_helmet": "2025-02-14 19:16:43 +0000"
-    },
-    "done": false
-  },
-  "aether:recipes/combat/diamond_helmet_repairing": {
-    "criteria": {
-      "has_diamond_helmet": "2025-02-14 19:04:01 +0000"
     },
     "done": false
   },
@@ -15495,39 +15429,9 @@
     },
     "done": false
   },
-  "iceandfire:recipes/combat/armor_copper_metal_boots": {
-    "criteria": {
-      "has_the_recipe": "2025-02-14 19:59:01 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/combat/armor_copper_metal_helmet": {
-    "criteria": {
-      "has_the_recipe": "2025-02-14 19:52:06 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2025-02-14 19:59:26 +0000"
-    },
-    "done": false
-  },
-  "l2weaponry:recipes/tools/generated/craft/totemic_gold_claw_enchanted": {
-    "criteria": {
-      "has_totemic_gold_ingot": "2025-02-14 20:17:04 +0000"
-    },
-    "done": false
-  },
   "iceandfire:recipes/tools/dragonsteel_fire_pickaxe": {
     "criteria": {
       "has_item": "2025-02-14 19:21:09 +0000"
-    },
-    "done": false
-  },
-  "l2weaponry:recipes/tools/generated/craft/totemic_gold_spear_enchanted": {
-    "criteria": {
-      "has_totemic_gold_ingot": "2025-02-14 20:17:04 +0000"
     },
     "done": false
   },
@@ -15537,51 +15441,15 @@
     },
     "done": false
   },
-  "l2complements:recipes/misc/craft/totemic_carrot": {
-    "criteria": {
-      "has_totemic_gold_ingot": "2025-02-14 20:17:04 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/combat/armor_copper_metal_chestplate": {
-    "criteria": {
-      "has_the_recipe": "2025-02-14 20:04:21 +0000"
-    },
-    "done": false
-  },
-  "l2complements:recipes/misc/storage/totemic_gold_block_storage": {
-    "criteria": {
-      "has_totemic_gold_ingot": "2025-02-14 20:17:04 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/combat/armor_silver_metal_leggings": {
-    "criteria": {
-      "has_the_recipe": "2025-02-14 19:32:42 +0000"
-    },
-    "done": false
-  },
   "iceandfire:recipes/tools/dragonsteel_fire_shovel": {
     "criteria": {
       "has_item": "2025-02-14 19:21:09 +0000"
     },
     "done": false
   },
-  "supplementaries:recipes/soap/map": {
-    "criteria": {
-      "has_filled_map": "2025-02-14 19:12:48 +0000"
-    },
-    "done": false
-  },
   "l2weaponry:recipes/tools/generated/craft/fire_dragonsteel_throwing_axe_enchanted": {
     "criteria": {
       "has_dragonsteel_fire_ingot": "2025-02-14 19:21:09 +0000"
-    },
-    "done": false
-  },
-  "l2weaponry:recipes/tools/generated/craft/totemic_gold_round_shield_enchanted": {
-    "criteria": {
-      "has_totemic_gold_ingot": "2025-02-14 20:17:04 +0000"
     },
     "done": false
   },
@@ -15597,57 +15465,9 @@
     },
     "done": false
   },
-  "l2weaponry:recipes/tools/generated/craft/totemic_gold_machete_enchanted": {
-    "criteria": {
-      "has_totemic_gold_ingot": "2025-02-14 20:17:04 +0000"
-    },
-    "done": false
-  },
-  "aether:recipes/combat/leather_boots_repairing": {
-    "criteria": {
-      "has_leather_boots": "2025-02-14 19:06:56 +0000"
-    },
-    "done": false
-  },
-  "aether:recipes/combat/golden_leggings_repairing": {
-    "criteria": {
-      "has_golden_leggings": "2025-02-14 19:16:54 +0000"
-    },
-    "done": false
-  },
-  "l2weaponry:recipes/tools/generated/craft/totemic_gold_battle_axe_enchanted": {
-    "criteria": {
-      "has_totemic_gold_ingot": "2025-02-14 20:17:04 +0000"
-    },
-    "done": false
-  },
-  "l2complements:recipes/misc/storage/totemic_gold_ingot_unpack": {
-    "criteria": {
-      "has_totemic_gold_ingot": "2025-02-14 20:17:04 +0000"
-    },
-    "done": false
-  },
   "l2weaponry:recipes/tools/generated/craft/fire_dragonsteel_javelin_enchanted": {
     "criteria": {
       "has_dragonsteel_fire_ingot": "2025-02-14 19:21:09 +0000"
-    },
-    "done": false
-  },
-  "supplementaries:recipes/soap/piston": {
-    "criteria": {
-      "has_sticky_piston": "2025-02-14 19:20:45 +0000"
-    },
-    "done": false
-  },
-  "l2complements:recipes/misc/craft/enchanted_totemic_apple": {
-    "criteria": {
-      "has_totemic_gold_ingot": "2025-02-14 20:17:04 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/combat/armor_silver_metal_helmet": {
-    "criteria": {
-      "has_the_recipe": "2025-02-14 19:32:21 +0000"
     },
     "done": false
   },
@@ -15663,15 +15483,153 @@
     },
     "done": false
   },
+  "l2weaponry:recipes/tools/generated/craft/fire_dragonsteel_battle_axe_enchanted": {
+    "criteria": {
+      "has_dragonsteel_fire_ingot": "2025-02-14 19:21:09 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/dragonsteel_fire_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-14 19:21:09 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_helmet": {
+    "criteria": {
+      "has_the_recipe": "2025-02-14 19:32:21 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/combat/armor_silver_metal_boots": {
     "criteria": {
       "has_the_recipe": "2025-02-14 19:32:27 +0000"
     },
     "done": false
   },
-  "aether:recipes/combat/diamond_leggings_repairing": {
+  "iceandfire:recipes/combat/armor_silver_metal_chestplate": {
     "criteria": {
-      "has_diamond_leggings": "2025-02-14 19:04:12 +0000"
+      "has_the_recipe": "2025-02-14 19:32:35 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_leggings": {
+    "criteria": {
+      "has_the_recipe": "2025-02-14 19:32:42 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/armor_copper_metal_helmet": {
+    "criteria": {
+      "has_the_recipe": "2025-02-14 19:52:06 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/renew/reinforced_deepslate": {
+    "criteria": {
+      "has_warden_bone_shard": "2025-02-14 19:57:08 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/enchantments/enchantments/claw_shielding": {
+    "criteria": {
+      "has_warden_bone_shard": "2025-02-14 19:57:08 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/craft/sculkium_ingot": {
+    "criteria": {
+      "has_warden_bone_shard": "2025-02-14 19:57:08 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/armor_copper_metal_boots": {
+    "criteria": {
+      "has_the_recipe": "2025-02-14 19:59:01 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
+    "criteria": {
+      "has_stick": "2025-02-14 19:59:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-02-14 19:59:26 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/armor_copper_metal_chestplate": {
+    "criteria": {
+      "has_the_recipe": "2025-02-14 20:04:21 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/armor_copper_metal_leggings": {
+    "criteria": {
+      "has_the_recipe": "2025-02-14 20:04:34 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_throwing_axe_enchanted": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-02-14 20:17:04 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_claw_enchanted": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-02-14 20:17:04 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_spear_enchanted": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-02-14 20:17:04 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/craft/totemic_carrot": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-02-14 20:17:04 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/storage/totemic_gold_block_storage": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-02-14 20:17:04 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_round_shield_enchanted": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-02-14 20:17:04 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_machete_enchanted": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-02-14 20:17:04 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_battle_axe_enchanted": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-02-14 20:17:04 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/storage/totemic_gold_ingot_unpack": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-02-14 20:17:04 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/craft/enchanted_totemic_apple": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-02-14 20:17:04 +0000"
     },
     "done": false
   },
@@ -15699,25 +15657,19 @@
     },
     "done": false
   },
-  "aether:recipes/combat/leather_chestplate_repairing": {
-    "criteria": {
-      "has_leather_chestplate": "2025-02-14 19:07:16 +0000"
-    },
-    "done": false
-  },
   "l2weaponry:recipes/tools/generated/craft/totemic_gold_dagger_enchanted": {
     "criteria": {
       "has_totemic_gold_ingot": "2025-02-14 20:17:04 +0000"
     },
     "done": false
   },
-  "iceandfire:recipes/combat/armor_silver_metal_chestplate": {
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_hammer_enchanted": {
     "criteria": {
-      "has_the_recipe": "2025-02-14 19:32:35 +0000"
+      "has_totemic_gold_ingot": "2025-02-14 20:17:04 +0000"
     },
     "done": false
   },
-  "l2weaponry:recipes/tools/generated/craft/totemic_gold_hammer_enchanted": {
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_javelin_enchanted": {
     "criteria": {
       "has_totemic_gold_ingot": "2025-02-14 20:17:04 +0000"
     },
@@ -15728,30 +15680,6 @@
       "cyber_crystal_advancement_0": "2025-02-14 20:19:51 +0000"
     },
     "done": true
-  },
-  "l2weaponry:recipes/tools/generated/craft/totemic_gold_javelin_enchanted": {
-    "criteria": {
-      "has_totemic_gold_ingot": "2025-02-14 20:17:04 +0000"
-    },
-    "done": false
-  },
-  "l2weaponry:recipes/tools/generated/craft/fire_dragonsteel_battle_axe_enchanted": {
-    "criteria": {
-      "has_dragonsteel_fire_ingot": "2025-02-14 19:21:09 +0000"
-    },
-    "done": false
-  },
-  "l2complements:recipes/misc/craft/sculkium_ingot": {
-    "criteria": {
-      "has_warden_bone_shard": "2025-02-14 19:57:08 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/combat/dragonsteel_fire_chestplate": {
-    "criteria": {
-      "has_item": "2025-02-14 19:21:09 +0000"
-    },
-    "done": false
   },
   "DataVersion": 3465
 }
