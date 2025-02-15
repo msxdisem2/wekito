@@ -21067,6 +21067,12 @@
     },
     "done": false
   },
+  "crystalcraft_unlimited_java:thorium": {
+    "criteria": {
+      "thorium_0": "2025-02-15 02:52:09 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/misc/craft/totemic_apple": {
     "criteria": {
       "has_totemic_gold_ingot": "2025-02-15 01:47:12 +0000"
@@ -21078,6 +21084,12 @@
       "has_totemic_gold_ingot": "2025-02-15 01:47:12 +0000"
     },
     "done": false
+  },
+  "crystalcraft_unlimited_java:a_radiant_advancement": {
+    "criteria": {
+      "a_radiant_advancement_0": "2025-02-15 02:52:34 +0000"
+    },
+    "done": true
   },
   "l2weaponry:recipes/tools/generated/craft/totemic_gold_dagger_enchanted": {
     "criteria": {

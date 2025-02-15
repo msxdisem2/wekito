@@ -12775,3 +12775,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Feb2025 02:49:54.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15Feb2025 02:52:09.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [God of thunder]
 [15Feb2025 02:52:34.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [A Radiant Advancement]
+[15Feb2025 02:54:54.029] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Feb2025 02:54:54.055] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Feb2025 02:59:54.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Feb2025 02:59:54.052] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
