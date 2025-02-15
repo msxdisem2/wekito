@@ -117,6 +117,7 @@
       "minecraft:cherry_grove": "2024-12-27 05:05:43 +0000",
       "minecraft:sunflower_plains": "2025-01-13 23:56:32 +0000",
       "minecraft:birch_forest": "2024-12-24 00:24:50 +0000",
+      "minecraft:bamboo_jungle": "2025-02-15 03:29:51 +0000",
       "minecraft:badlands": "2025-01-04 16:16:04 +0000",
       "minecraft:savanna_plateau": "2025-02-08 20:05:58 +0000",
       "minecraft:beach": "2024-12-24 00:03:58 +0000",
@@ -6921,6 +6922,7 @@
   },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
+      "has_honeycomb": "2025-02-15 03:36:57 +0000",
       "has_string": "2024-12-24 01:15:33 +0000"
     },
     "done": false
@@ -20689,9 +20691,10 @@
   },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_4": {
     "criteria": {
-      "has_upgrade_base": "2025-02-07 18:09:46 +0000"
+      "has_upgrade_base": "2025-02-07 18:09:46 +0000",
+      "has_the_recipe": "2025-02-15 03:24:49 +0000"
     },
-    "done": false
+    "done": true
   },
   "crystalcraft_unlimited_java:rgbcmyk": {
     "criteria": {
@@ -21001,6 +21004,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2025-02-15 03:24:31 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2025-02-15 03:26:52 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/tools/generated/craft/totemic_gold_claw_enchanted": {
     "criteria": {
       "has_totemic_gold_ingot": "2025-02-15 01:47:12 +0000"
@@ -21049,6 +21064,12 @@
     },
     "done": false
   },
+  "aether:recipes/decorations/skyroot_beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-02-15 03:36:57 +0000"
+    },
+    "done": false
+  },
   "l2complements:recipes/misc/craft/enchanted_totemic_apple": {
     "criteria": {
       "has_totemic_gold_ingot": "2025-02-15 01:47:12 +0000"
@@ -21064,6 +21085,12 @@
   "l2weaponry:recipes/tools/generated/craft/totemic_gold_plate_shield_enchanted": {
     "criteria": {
       "has_totemic_gold_ingot": "2025-02-15 01:47:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-02-15 03:36:57 +0000"
     },
     "done": false
   },
@@ -21106,6 +21133,12 @@
   "l2weaponry:recipes/tools/generated/craft/totemic_gold_javelin_enchanted": {
     "criteria": {
       "has_totemic_gold_ingot": "2025-02-15 01:47:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-02-15 03:36:57 +0000"
     },
     "done": false
   },
