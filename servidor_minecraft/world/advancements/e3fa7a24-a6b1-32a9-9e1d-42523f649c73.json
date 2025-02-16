@@ -5065,6 +5065,7 @@
       "has_iron_axe": "2025-02-13 03:33:07 +0000",
       "has_iron_boots": "2024-12-31 01:48:17 +0000",
       "has_iron_horse_armor": "2024-12-31 01:48:12 +0000",
+      "has_iron_shovel": "2025-02-16 02:39:34 +0000",
       "has_iron_leggings": "2025-02-14 19:12:34 +0000",
       "has_iron_pickaxe": "2024-12-24 00:57:59 +0000",
       "has_iron_helmet": "2024-12-31 01:48:20 +0000",
@@ -5084,6 +5085,7 @@
       "has_iron_axe": "2025-02-13 03:33:07 +0000",
       "has_iron_boots": "2024-12-31 01:48:17 +0000",
       "has_iron_horse_armor": "2024-12-31 01:48:12 +0000",
+      "has_iron_shovel": "2025-02-16 02:39:34 +0000",
       "has_iron_leggings": "2025-02-14 19:12:34 +0000",
       "has_iron_pickaxe": "2024-12-24 00:57:59 +0000",
       "has_iron_helmet": "2024-12-31 01:48:20 +0000",
@@ -15894,78 +15896,6 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-02-15 17:52:00 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-15 23:39:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-15 23:39:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-15 23:39:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-15 23:39:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-15 23:39:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-15 23:39:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-15 23:39:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-15 23:39:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-15 23:39:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-15 23:39:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-15 23:39:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-15 23:39:48 +0000"
     },
     "done": false
   },
