@@ -789,3 +789,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Feb2025 22:33:44.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
 [16Feb2025 22:35:13.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 679.500000, 117.500000, -348.500000]
 [16Feb2025 22:35:29.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[16Feb2025 22:37:26.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 575.500000, 109.500000, -359.500000]
+[16Feb2025 22:37:41.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 679.500000, 117.500000, -348.500000]
+[16Feb2025 22:38:04.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 631.500000, 97.500000, -395.500000]
+[16Feb2025 22:38:13.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 679.500000, 117.500000, -348.500000]
+[16Feb2025 22:38:46.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Bronze Age]
+[16Feb2025 22:45:57.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -1336.500000, -23.500000, -1117.500000]
+[16Feb2025 22:46:03.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[16Feb2025 22:46:26.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has reached the goal [The Next Generation]
