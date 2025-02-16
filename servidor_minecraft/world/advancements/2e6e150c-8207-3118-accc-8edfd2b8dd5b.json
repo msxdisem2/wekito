@@ -21258,6 +21258,18 @@
     },
     "done": true
   },
+  "threateningly_mobs:titan_defeat": {
+    "criteria": {
+      "titan_defeat_0": "2025-02-16 22:55:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-02-16 22:46:26 +0000"
+    },
+    "done": true
+  },
   "more_recipes_and_more:bronze": {
     "criteria": {
       "bronze_0": "2025-02-16 22:38:46 +0000"

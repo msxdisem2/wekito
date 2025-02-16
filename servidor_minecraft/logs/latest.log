@@ -797,3 +797,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Feb2025 22:45:57.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -1336.500000, -23.500000, -1117.500000]
 [16Feb2025 22:46:03.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
 [16Feb2025 22:46:26.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has reached the goal [The Next Generation]
+[16Feb2025 22:50:23.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 995.500000, 210.500000, -908.500000]
+[16Feb2025 22:51:19.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[16Feb2025 22:53:01.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[16Feb2025 22:53:26.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 410.500000, 67.500000, -350.500000]
+[16Feb2025 22:53:53.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> está el ferj en ds
+[16Feb2025 22:54:09.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> dijo
+[16Feb2025 22:54:18.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> vengo altiro
+[16Feb2025 22:54:22.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> pero igual
+[16Feb2025 22:54:42.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[16Feb2025 22:55:12.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by Titan Rabbit
+[16Feb2025 22:55:12.548] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[16Feb2025 22:55:13.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has reached the goal [Titans on the plains]
+[16Feb2025 22:55:20.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 85.500000, 73.500000, -347.500000]
+[16Feb2025 22:55:26.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 85.500000, 73.500000, -347.500000]
+[16Feb2025 22:55:54.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 995.500000, 210.500000, -908.500000]
+[16Feb2025 22:57:21.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -1863.500000, 64.500000, 976.500000]
+[16Feb2025 22:57:21.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2397ms or 47 ticks behind
+[16Feb2025 22:57:40.648] [Worker-Main-28/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-2039, y=13, z=832}
+[16Feb2025 22:57:40.682] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2041, y=13, z=829}
+[16Feb2025 22:58:12.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 679.500000, 117.500000, -348.500000]
