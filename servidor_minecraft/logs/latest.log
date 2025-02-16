@@ -1,39 +1,39 @@
-[16Feb2025 02:44:24.240] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[16Feb2025 02:44:24.243] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[16Feb2025 02:44:26.915] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[16Feb2025 02:44:26.979] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/wekito/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[16Feb2025 02:44:27.444] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/wekito/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[16Feb2025 02:44:27.446] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/wekito/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[16Feb2025 02:44:27.447] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/wekito/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[16Feb2025 02:44:27.447] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/wekito/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[16Feb2025 02:44:27.870] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[16Feb2025 02:44:27.871] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: /workspaces/wekito/servidor_minecraft/mods/curios-forge-5.11.0+1.20.1.jar
-[16Feb2025 02:44:27.871] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: apexcore. Using Mod File: /workspaces/wekito/servidor_minecraft/mods/apexcore-1.20.1-10.0.0.jar
-[16Feb2025 02:44:27.872] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 25 dependencies adding them to mods collection
-[16Feb2025 02:44:32.498] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[16Feb2025 02:44:32.656] [main/ERROR] [mixin/]: Mixin config arclight.mixins.json does not specify "minVersion" property
-[16Feb2025 02:44:32.714] [main/ERROR] [mixin/]: Mixin config azurelib.mixins.json does not specify "minVersion" property
-[16Feb2025 02:44:32.716] [main/ERROR] [mixin/]: Mixin config azurelib.forge.mixins.json does not specify "minVersion" property
-[16Feb2025 02:44:32.783] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[16Feb2025 02:44:32.863] [main/INFO] [Rubidium/]: Loaded configuration file for Rubidium: 41 options available, 0 override(s) found
-[16Feb2025 02:44:33.398] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/vanilla.xml
-[16Feb2025 02:44:33.401] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/gregtechmodernce.xml
-[16Feb2025 02:44:33.403] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/assortedstorage.xml
-[16Feb2025 02:44:33.404] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/refinedstorage.xml
-[16Feb2025 02:44:33.405] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ic2.xml
-[16Feb2025 02:44:33.406] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/computercraft.xml
-[16Feb2025 02:44:33.407] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/mekanism.xml
-[16Feb2025 02:44:33.409] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ironfurnaces.xml
-[16Feb2025 02:44:33.459] [main/WARN] [mixin/]: Reference map 'morevillagers-forge-forge-refmap.json' for morevillagers.mixins.json could not be read. If this is a development environment you can ignore this message
-[16Feb2025 02:44:33.467] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[16Feb2025 02:44:33.495] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
-[16Feb2025 02:44:33.501] [main/WARN] [mixin/]: Reference map 'smallships-forge-refmap.json' for smallships.mixins.json could not be read. If this is a development environment you can ignore this message
-[16Feb2025 02:44:33.517] [main/WARN] [mixin/]: Reference map 'arclight.mixins.refmap.json' for arclight.mixins.json could not be read. If this is a development environment you can ignore this message
-[16Feb2025 02:44:33.532] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
-[16Feb2025 02:44:33.564] [main/WARN] [mixin/]: Reference map 'mixins.boh.refmap.json' for mixins.boh.json could not be read. If this is a development environment you can ignore this message
-[16Feb2025 02:44:33.575] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
-[16Feb2025 02:44:33.634] [main/WARN] [mixin/]: Reference map 'apexcore.refmap.json' for apexcore.mixins.json could not be read. If this is a development environment you can ignore this message
-[16Feb2025 02:44:33.658] [main/INFO] [Puzzles Lib/]: Loading 129 mods:
+[16Feb2025 02:50:05.243] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[16Feb2025 02:50:05.246] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[16Feb2025 02:50:06.916] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[16Feb2025 02:50:06.971] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/wekito/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[16Feb2025 02:50:07.553] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/wekito/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[16Feb2025 02:50:07.555] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/wekito/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[16Feb2025 02:50:07.557] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/wekito/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[16Feb2025 02:50:07.558] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/wekito/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[16Feb2025 02:50:08.010] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[16Feb2025 02:50:08.012] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: /workspaces/wekito/servidor_minecraft/mods/curios-forge-5.11.0+1.20.1.jar
+[16Feb2025 02:50:08.012] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: apexcore. Using Mod File: /workspaces/wekito/servidor_minecraft/mods/apexcore-1.20.1-10.0.0.jar
+[16Feb2025 02:50:08.013] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 25 dependencies adding them to mods collection
+[16Feb2025 02:50:11.929] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[16Feb2025 02:50:12.148] [main/ERROR] [mixin/]: Mixin config arclight.mixins.json does not specify "minVersion" property
+[16Feb2025 02:50:12.212] [main/ERROR] [mixin/]: Mixin config azurelib.mixins.json does not specify "minVersion" property
+[16Feb2025 02:50:12.215] [main/ERROR] [mixin/]: Mixin config azurelib.forge.mixins.json does not specify "minVersion" property
+[16Feb2025 02:50:12.345] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[16Feb2025 02:50:12.432] [main/INFO] [Rubidium/]: Loaded configuration file for Rubidium: 41 options available, 0 override(s) found
+[16Feb2025 02:50:13.015] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/vanilla.xml
+[16Feb2025 02:50:13.022] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/gregtechmodernce.xml
+[16Feb2025 02:50:13.025] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/assortedstorage.xml
+[16Feb2025 02:50:13.026] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/refinedstorage.xml
+[16Feb2025 02:50:13.032] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ic2.xml
+[16Feb2025 02:50:13.038] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/computercraft.xml
+[16Feb2025 02:50:13.040] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/mekanism.xml
+[16Feb2025 02:50:13.042] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ironfurnaces.xml
+[16Feb2025 02:50:13.074] [main/WARN] [mixin/]: Reference map 'morevillagers-forge-forge-refmap.json' for morevillagers.mixins.json could not be read. If this is a development environment you can ignore this message
+[16Feb2025 02:50:13.087] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[16Feb2025 02:50:13.122] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[16Feb2025 02:50:13.130] [main/WARN] [mixin/]: Reference map 'smallships-forge-refmap.json' for smallships.mixins.json could not be read. If this is a development environment you can ignore this message
+[16Feb2025 02:50:13.147] [main/WARN] [mixin/]: Reference map 'arclight.mixins.refmap.json' for arclight.mixins.json could not be read. If this is a development environment you can ignore this message
+[16Feb2025 02:50:13.165] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[16Feb2025 02:50:13.217] [main/WARN] [mixin/]: Reference map 'mixins.boh.refmap.json' for mixins.boh.json could not be read. If this is a development environment you can ignore this message
+[16Feb2025 02:50:13.229] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[16Feb2025 02:50:13.290] [main/WARN] [mixin/]: Reference map 'apexcore.refmap.json' for apexcore.mixins.json could not be read. If this is a development environment you can ignore this message
+[16Feb2025 02:50:13.316] [main/INFO] [Puzzles Lib/]: Loading 129 mods:
 	- aether 1.20.1-1.5.1-neoforge
 		|-- cumulus_menus 1.20.1-1.0.1-neoforge
 		\-- nitrogen_internals 1.20.1-1.0.11-neoforge
@@ -164,24 +164,24 @@
 	- xaerominimap 24.6.1
 	- xaeroworldmap 1.39.0
 	- yungsapi 1.20-Forge-4.0.6
-[16Feb2025 02:44:33.666] [main/WARN] [mixin/]: Reference map 'itemselector.refmap.json' for l2itemselector.mixins.json could not be read. If this is a development environment you can ignore this message
-[16Feb2025 02:44:33.674] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
-[16Feb2025 02:44:34.881] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.TomatoVineBlock)
-[16Feb2025 02:44:35.178] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
-[16Feb2025 02:44:35.179] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
-[16Feb2025 02:44:36.033] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[16Feb2025 02:44:43.000] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zkh000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[16Feb2025 02:44:44.033] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[16Feb2025 02:50:13.325] [main/WARN] [mixin/]: Reference map 'itemselector.refmap.json' for l2itemselector.mixins.json could not be read. If this is a development environment you can ignore this message
+[16Feb2025 02:50:13.339] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[16Feb2025 02:50:14.628] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.TomatoVineBlock)
+[16Feb2025 02:50:15.006] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[16Feb2025 02:50:15.007] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[16Feb2025 02:50:15.762] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[16Feb2025 02:50:22.000] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zkh000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[16Feb2025 02:50:22.996] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[16Feb2025 02:44:44.730] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
-[16Feb2025 02:44:47.230] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
-[16Feb2025 02:44:47.298] [modloading-worker-0/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[16Feb2025 02:44:47.472] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[16Feb2025 02:44:47.927] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for tradingpost:main
-[16Feb2025 02:44:48.154] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
-[16Feb2025 02:44:48.170] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for universalbonemeal:main
-[16Feb2025 02:44:48.351] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@8b41ad on thread Thread[modloading-worker-0,5,main]
-[16Feb2025 02:44:48.353] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[16Feb2025 02:50:23.725] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
+[16Feb2025 02:50:26.477] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
+[16Feb2025 02:50:26.534] [modloading-worker-0/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[16Feb2025 02:50:26.643] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[16Feb2025 02:50:27.087] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for tradingpost:main
+[16Feb2025 02:50:27.255] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
+[16Feb2025 02:50:27.278] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for universalbonemeal:main
+[16Feb2025 02:50:27.413] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@8b41ad on thread Thread[modloading-worker-0,5,main]
+[16Feb2025 02:50:27.413] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
@@ -229,86 +229,87 @@ java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.Re
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[16Feb2025 02:44:48.360] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
-[16Feb2025 02:44:48.622] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[16Feb2025 02:44:48.623] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[16Feb2025 02:44:48.635] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[16Feb2025 02:44:48.636] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[16Feb2025 02:44:48.637] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[16Feb2025 02:44:48.638] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[16Feb2025 02:44:48.639] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[16Feb2025 02:44:49.054] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered azurelib config for auto-sync function
-[16Feb2025 02:44:49.060] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[16Feb2025 02:44:49.063] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[16Feb2025 02:44:50.529] [modloading-worker-0/INFO] [fr.samlegamer.macawsbridgesbop.MacawsBridgesBOP/]: Macaw's Bridges - Biome O' Plenty : Loading ...
-[16Feb2025 02:44:50.544] [modloading-worker-0/INFO] [fr.samlegamer.macawsbridgesbop.MacawsBridgesBOP/]: Macaw's Bridges - Biome O' Plenty : Is Charged
-[16Feb2025 02:44:50.564] [modloading-worker-0/INFO] [xyz.apex.forge.commonality.Mods.CommonalityMod/]: Running Minecraft '1.20.1', & Forge '47.3.7' on Java '17.0.14, Ubuntu'
-[16Feb2025 02:44:50.567] [modloading-worker-0/INFO] [TrustedSourceList/]: Loading BlackListed sources from remote... (https://api.stopmodreposts.org/minecraft/sites.txt)
-[16Feb2025 02:44:50.741] [modloading-worker-0/INFO] [net.nicguzzo.wands.WandsMod/]: Has opac!! false
-[16Feb2025 02:44:50.741] [modloading-worker-0/INFO] [net.nicguzzo.wands.WandsMod/]: Has ftbchunks!! false
-[16Feb2025 02:44:50.742] [modloading-worker-0/INFO] [net.nicguzzo.wands.WandsMod/]: Has flan!! false
-[16Feb2025 02:44:50.743] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id wands:key_packet
-[16Feb2025 02:44:50.743] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id wands:palette_packet
-[16Feb2025 02:44:50.744] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id wands:wand_packet
-[16Feb2025 02:44:50.744] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id wands:pos_packet
-[16Feb2025 02:44:50.745] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id wands:global_settings_packet
-[16Feb2025 02:44:50.917] [modloading-worker-0/INFO] [TrustedSourceList/]: Loaded 564 BlackListed sources from remote
-[16Feb2025 02:44:50.920] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'commonality' TrustWorthiness...
-[16Feb2025 02:44:50.921] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
-[16Feb2025 02:44:50.921] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'commonality' TrustWorthiness: UNKNOWN
-[16Feb2025 02:44:50.946] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'fantasyfurniture' TrustWorthiness...
-[16Feb2025 02:44:50.946] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
-[16Feb2025 02:44:50.946] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'apexcore' TrustWorthiness...
-[16Feb2025 02:44:50.947] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'fantasyfurniture' TrustWorthiness: UNKNOWN
-[16Feb2025 02:44:50.953] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
-[16Feb2025 02:44:50.953] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'apexcore' TrustWorthiness: UNKNOWN
-[16Feb2025 02:44:50.987] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[16Feb2025 02:44:50.990] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[16Feb2025 02:44:55.087] [main/INFO] [Moonlight/]: Initialized block sets in 20ms
-[16Feb2025 02:44:57.575] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[16Feb2025 02:44:57.695] [main/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[16Feb2025 02:44:57.701] [Thread-3/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[16Feb2025 02:44:58.093] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
-[16Feb2025 02:44:58.114] [modloading-worker-0/INFO] [com.github.nyuppo.MoreMobVariants/]: Giving mobs a fresh coat of paint...
-[16Feb2025 02:44:58.254] [main/INFO] [Supplementaries/]: Finished mod setup in: [0, 5, 0, 1, 0, 0, 19, 10, 1] ms
-[16Feb2025 02:44:58.287] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
-[16Feb2025 02:44:58.288] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
-[16Feb2025 02:44:58.329] [main/INFO] [crust/configs/]: First-time loading config file config/Crust/default_game_rules.toml
-[16Feb2025 02:44:58.337] [main/INFO] [crust/configs/]: Started watching config file config/Crust/default_game_rules.toml for updates
-[16Feb2025 02:44:58.337] [main/INFO] [crust/configs/]: First-time loading config file config/Crust/modes.toml
-[16Feb2025 02:44:58.340] [main/INFO] [crust/configs/]: Started watching config file config/Crust/modes.toml for updates
-[16Feb2025 02:44:58.348] [main/INFO] [crust/]: Found Crust plugin at fathertoast.crust.common.api.impl.InternalCrustPlugin with plugin ID: crust:builtin_plugin
-[16Feb2025 02:44:58.357] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: OUTDATED Current: 1.20.1-1.5.1-neoforge Target: 1.20.1-1.5.2-neoforge
-[16Feb2025 02:44:58.357] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
-[16Feb2025 02:44:58.367] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.3.0 Target: null
-[16Feb2025 02:44:58.367] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
-[16Feb2025 02:44:58.377] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-3.1.11 Target: null
-[16Feb2025 02:44:58.377] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
-[16Feb2025 02:44:58.386] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.0.0 Target: null
-[16Feb2025 02:44:58.386] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morebows] Starting version check at https://nerdthened.github.io/More-bows/update-modern.json
-[16Feb2025 02:44:58.436] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morebows] Found status: UP_TO_DATE Current: 1.0.13 Target: null
-[16Feb2025 02:44:58.437] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Starting version check at https://api.modrinth.com/updates/EEIwvQVo/forge_updates.json
-[16Feb2025 02:44:58.456] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[16Feb2025 02:44:58.573] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[16Feb2025 02:44:58.573] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[16Feb2025 02:44:58.574] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[16Feb2025 02:44:58.574] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[16Feb2025 02:44:58.574] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[16Feb2025 02:44:58.575] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[16Feb2025 02:44:58.575] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[16Feb2025 02:44:58.632] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Found status: OUTDATED Current: 1.3.3 Target: 1.3.4+mod
-[16Feb2025 02:44:58.632] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[16Feb2025 02:44:58.643] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.8.6 Target: 8.9.0
-[16Feb2025 02:44:58.645] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
-[16Feb2025 02:44:58.666] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: UP_TO_DATE Current: 1.20.1-1.0.1-neoforge Target: null
-[16Feb2025 02:44:58.667] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
-[16Feb2025 02:44:58.679] [main/INFO] [Moonlight/]: Initialized color sets in 85ms
-[16Feb2025 02:44:58.709] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[16Feb2025 02:44:58.710] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[16Feb2025 02:44:58.712] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[16Feb2025 02:44:58.713] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[16Feb2025 02:44:58.808] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.aetherteam.aether.integration.jade.AetherJadePlugin
-[16Feb2025 02:44:58.809] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[16Feb2025 02:50:27.422] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[16Feb2025 02:50:27.803] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[16Feb2025 02:50:27.815] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[16Feb2025 02:50:27.816] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[16Feb2025 02:50:27.817] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[16Feb2025 02:50:27.821] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[16Feb2025 02:50:27.824] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[16Feb2025 02:50:27.833] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[16Feb2025 02:50:28.247] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[16Feb2025 02:50:28.248] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[16Feb2025 02:50:28.252] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered azurelib config for auto-sync function
+[16Feb2025 02:50:29.863] [modloading-worker-0/INFO] [fr.samlegamer.macawsbridgesbop.MacawsBridgesBOP/]: Macaw's Bridges - Biome O' Plenty : Loading ...
+[16Feb2025 02:50:29.879] [modloading-worker-0/INFO] [fr.samlegamer.macawsbridgesbop.MacawsBridgesBOP/]: Macaw's Bridges - Biome O' Plenty : Is Charged
+[16Feb2025 02:50:29.885] [modloading-worker-0/INFO] [xyz.apex.forge.commonality.Mods.CommonalityMod/]: Running Minecraft '1.20.1', & Forge '47.3.7' on Java '17.0.14, Ubuntu'
+[16Feb2025 02:50:29.891] [modloading-worker-0/INFO] [TrustedSourceList/]: Loading BlackListed sources from remote... (https://api.stopmodreposts.org/minecraft/sites.txt)
+[16Feb2025 02:50:30.030] [modloading-worker-0/INFO] [net.nicguzzo.wands.WandsMod/]: Has opac!! false
+[16Feb2025 02:50:30.035] [modloading-worker-0/INFO] [net.nicguzzo.wands.WandsMod/]: Has ftbchunks!! false
+[16Feb2025 02:50:30.036] [modloading-worker-0/INFO] [net.nicguzzo.wands.WandsMod/]: Has flan!! false
+[16Feb2025 02:50:30.036] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id wands:key_packet
+[16Feb2025 02:50:30.037] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id wands:palette_packet
+[16Feb2025 02:50:30.037] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id wands:wand_packet
+[16Feb2025 02:50:30.038] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id wands:pos_packet
+[16Feb2025 02:50:30.038] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id wands:global_settings_packet
+[16Feb2025 02:50:30.163] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'fantasyfurniture' TrustWorthiness...
+[16Feb2025 02:50:30.163] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[16Feb2025 02:50:30.163] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'fantasyfurniture' TrustWorthiness: UNKNOWN
+[16Feb2025 02:50:30.167] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'apexcore' TrustWorthiness...
+[16Feb2025 02:50:30.167] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[16Feb2025 02:50:30.167] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'apexcore' TrustWorthiness: UNKNOWN
+[16Feb2025 02:50:30.198] [modloading-worker-0/INFO] [TrustedSourceList/]: Loaded 564 BlackListed sources from remote
+[16Feb2025 02:50:30.199] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'commonality' TrustWorthiness...
+[16Feb2025 02:50:30.199] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[16Feb2025 02:50:30.199] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'commonality' TrustWorthiness: UNKNOWN
+[16Feb2025 02:50:30.225] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[16Feb2025 02:50:30.242] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[16Feb2025 02:50:34.416] [main/INFO] [Moonlight/]: Initialized block sets in 24ms
+[16Feb2025 02:50:37.147] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[16Feb2025 02:50:37.277] [main/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[16Feb2025 02:50:37.279] [Thread-3/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[16Feb2025 02:50:37.280] [Thread-3/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[16Feb2025 02:50:37.611] [modloading-worker-0/INFO] [com.github.nyuppo.MoreMobVariants/]: Giving mobs a fresh coat of paint...
+[16Feb2025 02:50:37.649] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
+[16Feb2025 02:50:37.721] [main/INFO] [Supplementaries/]: Finished mod setup in: [0, 2, 0, 0, 0, 0, 14, 10, 1] ms
+[16Feb2025 02:50:37.799] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
+[16Feb2025 02:50:37.799] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
+[16Feb2025 02:50:37.869] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[16Feb2025 02:50:37.870] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: OUTDATED Current: 1.20.1-1.5.1-neoforge Target: 1.20.1-1.5.2-neoforge
+[16Feb2025 02:50:37.870] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
+[16Feb2025 02:50:37.881] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.3.0 Target: null
+[16Feb2025 02:50:37.881] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
+[16Feb2025 02:50:37.891] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-3.1.11 Target: null
+[16Feb2025 02:50:37.891] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[16Feb2025 02:50:37.899] [main/INFO] [crust/configs/]: First-time loading config file config/Crust/default_game_rules.toml
+[16Feb2025 02:50:37.903] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.0.0 Target: null
+[16Feb2025 02:50:37.903] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morebows] Starting version check at https://nerdthened.github.io/More-bows/update-modern.json
+[16Feb2025 02:50:37.904] [main/INFO] [crust/configs/]: Started watching config file config/Crust/default_game_rules.toml for updates
+[16Feb2025 02:50:37.905] [main/INFO] [crust/configs/]: First-time loading config file config/Crust/modes.toml
+[16Feb2025 02:50:37.907] [main/INFO] [crust/configs/]: Started watching config file config/Crust/modes.toml for updates
+[16Feb2025 02:50:37.907] [Thread-3/INFO] [crust/configs/]: Reloading config file config/Crust/modes.toml
+[16Feb2025 02:50:37.913] [main/INFO] [crust/]: Found Crust plugin at fathertoast.crust.common.api.impl.InternalCrustPlugin with plugin ID: crust:builtin_plugin
+[16Feb2025 02:50:37.939] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morebows] Found status: UP_TO_DATE Current: 1.0.13 Target: null
+[16Feb2025 02:50:37.939] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Starting version check at https://api.modrinth.com/updates/EEIwvQVo/forge_updates.json
+[16Feb2025 02:50:38.043] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[16Feb2025 02:50:38.044] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[16Feb2025 02:50:38.044] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[16Feb2025 02:50:38.044] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[16Feb2025 02:50:38.045] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[16Feb2025 02:50:38.045] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[16Feb2025 02:50:38.045] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[16Feb2025 02:50:38.123] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Found status: OUTDATED Current: 1.3.3 Target: 1.3.4+mod
+[16Feb2025 02:50:38.123] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[16Feb2025 02:50:38.133] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.8.6 Target: 8.9.0
+[16Feb2025 02:50:38.135] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
+[16Feb2025 02:50:38.149] [main/INFO] [Moonlight/]: Initialized color sets in 101ms
+[16Feb2025 02:50:38.152] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: UP_TO_DATE Current: 1.20.1-1.0.1-neoforge Target: null
+[16Feb2025 02:50:38.152] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
+[16Feb2025 02:50:38.187] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[16Feb2025 02:50:38.188] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[16Feb2025 02:50:38.190] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[16Feb2025 02:50:38.190] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[16Feb2025 02:50:38.273] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -323,11 +324,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[16Feb2025 02:44:58.810] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[16Feb2025 02:44:58.823] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.mehvahdjukaar.supplementaries.integration.JadeCompat
-[16Feb2025 02:44:58.826] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[16Feb2025 02:44:58.827] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[16Feb2025 02:44:58.839] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[16Feb2025 02:50:38.275] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[16Feb2025 02:50:38.303] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -342,12 +340,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[16Feb2025 02:44:58.839] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[16Feb2025 02:44:58.849] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[16Feb2025 02:44:58.855] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[16Feb2025 02:44:58.857] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.easyvillagers.integration.waila.PluginEasyVillagers
-[16Feb2025 02:44:58.858] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[16Feb2025 02:44:58.868] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[16Feb2025 02:50:38.304] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[16Feb2025 02:50:38.315] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.aetherteam.aether.integration.jade.AetherJadePlugin
+[16Feb2025 02:50:38.336] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -362,16 +357,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[16Feb2025 02:44:58.869] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/smallships/main/update.json
-[16Feb2025 02:44:58.879] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Found status: UP_TO_DATE Current: 2.0.0-b1.4 Target: null
-[16Feb2025 02:44:58.879] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tradingpost] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/tradingpost.json
-[16Feb2025 02:44:58.890] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tradingpost] Found status: UP_TO_DATE Current: 8.0.2 Target: null
-[16Feb2025 02:44:58.891] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
-[16Feb2025 02:44:58.901] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[16Feb2025 02:44:58.901] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [universalbonemeal] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/universalbonemeal.json
-[16Feb2025 02:44:58.910] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [universalbonemeal] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[16Feb2025 02:44:58.910] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
-[16Feb2025 02:44:58.919] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[16Feb2025 02:50:38.337] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/smallships/main/update.json
+[16Feb2025 02:50:38.344] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.mehvahdjukaar.supplementaries.integration.JadeCompat
+[16Feb2025 02:50:38.347] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[16Feb2025 02:50:38.349] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Found status: UP_TO_DATE Current: 2.0.0-b1.4 Target: null
+[16Feb2025 02:50:38.349] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tradingpost] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/tradingpost.json
+[16Feb2025 02:50:38.352] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[16Feb2025 02:50:38.360] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tradingpost] Found status: UP_TO_DATE Current: 8.0.2 Target: null
+[16Feb2025 02:50:38.361] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[16Feb2025 02:50:38.367] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[16Feb2025 02:50:38.370] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[16Feb2025 02:50:38.371] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [universalbonemeal] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/universalbonemeal.json
+[16Feb2025 02:50:38.377] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[16Feb2025 02:50:38.379] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.easyvillagers.integration.waila.PluginEasyVillagers
+[16Feb2025 02:50:38.381] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [universalbonemeal] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[16Feb2025 02:50:38.382] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[16Feb2025 02:50:38.383] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[16Feb2025 02:50:38.391] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -386,30 +388,30 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[16Feb2025 02:44:58.919] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_veinminer] Starting version check at https://api.modrinth.com/updates/OhduvhIc/forge_updates.json
-[16Feb2025 02:44:59.219] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_veinminer] Found status: OUTDATED Current: 1.1.0 Target: 1.1.0+mod
-[16Feb2025 02:44:59.219] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[16Feb2025 02:44:59.229] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[16Feb2025 02:44:59.229] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[16Feb2025 02:44:59.331] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.29
-[16Feb2025 02:44:59.331] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[16Feb2025 02:44:59.342] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.41 Target: null
-[16Feb2025 02:44:59.342] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commonality] Starting version check at https://api.modrinth.com/updates/apexcore/forge_updates.json
-[16Feb2025 02:44:59.469] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commonality] Found status: OUTDATED Current: 7.0.0 Target: 10.0.0
-[16Feb2025 02:44:59.470] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
-[16Feb2025 02:44:59.996] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: AHEAD Current: 1.20.1-1.1.23 Target: null
-[16Feb2025 02:44:59.999] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[16Feb2025 02:45:00.055] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.11 Target: 1.9.12
-[16Feb2025 02:45:00.055] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[16Feb2025 02:45:00.068] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
-[16Feb2025 02:45:00.069] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [apexcore] Starting version check at https://api.modrinth.com/updates/apexcore/forge_updates.json
-[16Feb2025 02:45:00.183] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [apexcore] Found status: UP_TO_DATE Current: 10.0.0 Target: null
-[16Feb2025 02:45:00.183] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Starting version check at https://api.modrinth.com/updates/fantasy-furniture/forge_updates.json
-[16Feb2025 02:45:00.306] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Found status: UP_TO_DATE Current: 9.0.0 Target: null
-[16Feb2025 02:45:00.307] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[16Feb2025 02:45:00.318] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.25 Target: null
-[16Feb2025 02:45:00.318] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
-[16Feb2025 02:45:00.329] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[16Feb2025 02:50:38.392] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_veinminer] Starting version check at https://api.modrinth.com/updates/OhduvhIc/forge_updates.json
+[16Feb2025 02:50:38.836] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_veinminer] Found status: OUTDATED Current: 1.1.0 Target: 1.1.0+mod
+[16Feb2025 02:50:38.837] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[16Feb2025 02:50:38.848] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[16Feb2025 02:50:38.848] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[16Feb2025 02:50:38.942] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.29
+[16Feb2025 02:50:38.943] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[16Feb2025 02:50:38.952] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.41 Target: null
+[16Feb2025 02:50:38.953] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commonality] Starting version check at https://api.modrinth.com/updates/apexcore/forge_updates.json
+[16Feb2025 02:50:39.054] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commonality] Found status: OUTDATED Current: 7.0.0 Target: 10.0.0
+[16Feb2025 02:50:39.055] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
+[16Feb2025 02:50:39.730] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: AHEAD Current: 1.20.1-1.1.23 Target: null
+[16Feb2025 02:50:39.730] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[16Feb2025 02:50:39.784] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.11 Target: 1.9.12
+[16Feb2025 02:50:39.785] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[16Feb2025 02:50:39.796] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[16Feb2025 02:50:39.796] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [apexcore] Starting version check at https://api.modrinth.com/updates/apexcore/forge_updates.json
+[16Feb2025 02:50:39.904] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [apexcore] Found status: UP_TO_DATE Current: 10.0.0 Target: null
+[16Feb2025 02:50:39.905] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Starting version check at https://api.modrinth.com/updates/fantasy-furniture/forge_updates.json
+[16Feb2025 02:50:40.024] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Found status: UP_TO_DATE Current: 9.0.0 Target: null
+[16Feb2025 02:50:40.025] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[16Feb2025 02:50:40.036] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.25 Target: null
+[16Feb2025 02:50:40.036] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
+[16Feb2025 02:50:40.044] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -424,29 +426,29 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[16Feb2025 02:45:05.090] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16Feb2025 02:45:09.039] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/wekito/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23333!/assets/.mcassetsroot' uses unexpected schema
-[16Feb2025 02:45:09.040] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/wekito/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23333!/data/.mcassetsroot' uses unexpected schema
-[16Feb2025 02:45:09.302] [main/INFO] [Sawmill/]: Generated runtime SERVER_DATA for pack Sawmill Sawmill Recipes (sawmill) in: 0 ms (debug resource dump on)
-[16Feb2025 02:45:09.349] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 47 ms
-[16Feb2025 02:45:11.834] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[16Feb2025 02:45:12.036] [Worker-Main-2/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.8.6.jar
-[16Feb2025 02:45:12.067] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:storage_blocks as it is missing following references: #forge:ores/steel (from epicpaladins-0.1.1-1.20.1-forge.jar)
-[16Feb2025 02:45:12.119] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag supplementaries:lunch_basket_blacklist as it is missing following references: potionbundles:potion_bundle (from supplementaries-1.20-3.1.11.jar)
-[16Feb2025 02:45:12.130] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag eldritch_end:etyr_armor as it is missing following references: samurai_dynasty:etyrite_samurai_helmet (from samurai_dynasty-0.0.48-1.20.1-neo.jar), 
+[16Feb2025 02:50:44.967] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16Feb2025 02:50:48.827] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/wekito/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23333!/assets/.mcassetsroot' uses unexpected schema
+[16Feb2025 02:50:48.828] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/wekito/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23333!/data/.mcassetsroot' uses unexpected schema
+[16Feb2025 02:50:49.022] [main/INFO] [Sawmill/]: Generated runtime SERVER_DATA for pack Sawmill Sawmill Recipes (sawmill) in: 0 ms (debug resource dump on)
+[16Feb2025 02:50:49.067] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 44 ms
+[16Feb2025 02:50:51.528] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[16Feb2025 02:50:51.778] [Worker-Main-3/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.8.6.jar
+[16Feb2025 02:50:51.779] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:is_eyestalker as it is missing following references: #forge:is_end (from enemyexpansion-2.3.1-forge-1.20.1.jar)
+[16Feb2025 02:50:51.785] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:storage_blocks as it is missing following references: #forge:ores/steel (from epicpaladins-0.1.1-1.20.1-forge.jar)
+[16Feb2025 02:50:51.853] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag supplementaries:lunch_basket_blacklist as it is missing following references: potionbundles:potion_bundle (from supplementaries-1.20-3.1.11.jar)
+[16Feb2025 02:50:51.863] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag eldritch_end:etyr_armor as it is missing following references: samurai_dynasty:etyrite_samurai_helmet (from samurai_dynasty-0.0.48-1.20.1-neo.jar), 
 	samurai_dynasty:etyrite_samurai_chestplate (from samurai_dynasty-0.0.48-1.20.1-neo.jar), 
 	samurai_dynasty:etyrite_samurai_leggings (from samurai_dynasty-0.0.48-1.20.1-neo.jar), 
 	samurai_dynasty:etyrite_samurai_boots (from samurai_dynasty-0.0.48-1.20.1-neo.jar)
-[16Feb2025 02:45:12.150] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:is_eyestalker as it is missing following references: #forge:is_end (from enemyexpansion-2.3.1-forge-1.20.1.jar)
-[16Feb2025 02:45:17.488] [main/INFO] [Sawmill/]: Intercepted tag results
-[16Feb2025 02:45:17.619] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:source_gem_samruai_chestplate_ritual as it's serializer returned null
-[16Feb2025 02:45:17.623] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_chestplate as it's serializer returned null
-[16Feb2025 02:45:17.633] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_chestplate_array as it's serializer returned null
-[16Feb2025 02:45:17.648] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:source_gem_samruai_leggings_ritual as it's serializer returned null
-[16Feb2025 02:45:17.675] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_leggings_array as it's serializer returned null
-[16Feb2025 02:45:17.702] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_chestplate as it's serializer returned null
-[16Feb2025 02:45:17.708] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:neptunium_samurai_boots as it's serializer returned null
-[16Feb2025 02:45:17.710] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe crystalcraft_unlimited_java:withered_steel_recipe
+[16Feb2025 02:50:57.270] [main/INFO] [Sawmill/]: Intercepted tag results
+[16Feb2025 02:50:57.369] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:source_gem_samruai_chestplate_ritual as it's serializer returned null
+[16Feb2025 02:50:57.372] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_chestplate as it's serializer returned null
+[16Feb2025 02:50:57.383] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_chestplate_array as it's serializer returned null
+[16Feb2025 02:50:57.395] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:source_gem_samruai_leggings_ritual as it's serializer returned null
+[16Feb2025 02:50:57.441] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_leggings_array as it's serializer returned null
+[16Feb2025 02:50:57.493] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_chestplate as it's serializer returned null
+[16Feb2025 02:50:57.499] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:neptunium_samurai_boots as it's serializer returned null
+[16Feb2025 02:50:57.502] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe crystalcraft_unlimited_java:withered_steel_recipe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -475,11 +477,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[16Feb2025 02:45:17.712] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_boots as it's serializer returned null
-[16Feb2025 02:45:17.729] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:source_gem_samruai_helmet_ritual as it's serializer returned null
-[16Feb2025 02:45:17.737] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:neptunium_samurai_leggings as it's serializer returned null
-[16Feb2025 02:45:17.740] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_leggings as it's serializer returned null
-[16Feb2025 02:45:17.747] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_netherite_samurai_helmet
+[16Feb2025 02:50:57.504] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_boots as it's serializer returned null
+[16Feb2025 02:50:57.522] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:source_gem_samruai_helmet_ritual as it's serializer returned null
+[16Feb2025 02:50:57.537] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:neptunium_samurai_leggings as it's serializer returned null
+[16Feb2025 02:50:57.541] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_leggings as it's serializer returned null
+[16Feb2025 02:50:57.548] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_netherite_samurai_helmet
 com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_netherite_samurai_helmet'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23338!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23338!/:?]
@@ -512,15 +514,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_netherit
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[16Feb2025 02:45:17.754] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
-[16Feb2025 02:45:17.764] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:source_gem_samruai_boots_ritual as it's serializer returned null
-[16Feb2025 02:45:17.765] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_leggings_smithing as it's serializer returned null
-[16Feb2025 02:45:17.772] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_repair_kit_mechanical_crafting as it's serializer returned null
-[16Feb2025 02:45:17.791] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
-[16Feb2025 02:45:17.792] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_helmet as it's serializer returned null
-[16Feb2025 02:45:17.805] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
-[16Feb2025 02:45:17.809] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:neptunium_samurai_chestplate as it's serializer returned null
-[16Feb2025 02:45:17.814] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe boh:craft_bowlpf_creepypasta
+[16Feb2025 02:50:57.560] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[16Feb2025 02:50:57.575] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:source_gem_samruai_boots_ritual as it's serializer returned null
+[16Feb2025 02:50:57.575] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_leggings_smithing as it's serializer returned null
+[16Feb2025 02:50:57.581] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_repair_kit_mechanical_crafting as it's serializer returned null
+[16Feb2025 02:50:57.613] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[16Feb2025 02:50:57.614] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_helmet as it's serializer returned null
+[16Feb2025 02:50:57.630] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[16Feb2025 02:50:57.634] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:neptunium_samurai_chestplate as it's serializer returned null
+[16Feb2025 02:50:57.641] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe boh:craft_bowlpf_creepypasta
 com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:295) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
 	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
@@ -556,12 +558,12 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[16Feb2025 02:45:17.820] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_boots as it's serializer returned null
-[16Feb2025 02:45:17.822] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_chestplate_smithing as it's serializer returned null
-[16Feb2025 02:45:17.832] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_samruai_boots_mechanical_crafting as it's serializer returned null
-[16Feb2025 02:45:17.835] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:neptunium_samurai_helmet as it's serializer returned null
-[16Feb2025 02:45:17.842] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_boots_smithing as it's serializer returned null
-[16Feb2025 02:45:17.843] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_straw_hat
+[16Feb2025 02:50:57.654] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_boots as it's serializer returned null
+[16Feb2025 02:50:57.657] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_chestplate_smithing as it's serializer returned null
+[16Feb2025 02:50:57.673] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_samruai_boots_mechanical_crafting as it's serializer returned null
+[16Feb2025 02:50:57.677] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:neptunium_samurai_helmet as it's serializer returned null
+[16Feb2025 02:50:57.691] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_boots_smithing as it's serializer returned null
+[16Feb2025 02:50:57.692] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_straw_hat
 com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_hat'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23338!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23338!/:?]
@@ -594,8 +596,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[16Feb2025 02:45:17.846] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_samruai_helmet_mechanical_crafting as it's serializer returned null
-[16Feb2025 02:45:17.848] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe boh:copper_pipe
+[16Feb2025 02:50:57.698] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_samruai_helmet_mechanical_crafting as it's serializer returned null
+[16Feb2025 02:50:57.701] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe boh:copper_pipe
 com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:295) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
 	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
@@ -631,8 +633,8 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[16Feb2025 02:45:17.856] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:dye_ars_nouveau_boots as it's serializer returned null
-[16Feb2025 02:45:17.863] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_amethyst_samurai_helmet
+[16Feb2025 02:50:57.716] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:dye_ars_nouveau_boots as it's serializer returned null
+[16Feb2025 02:50:57.725] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_amethyst_samurai_helmet
 com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_amethyst_samurai_helmet'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23338!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23338!/:?]
@@ -665,13 +667,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_amethyst
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[16Feb2025 02:45:17.868] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:dye_ars_nouveau_chestplate as it's serializer returned null
-[16Feb2025 02:45:17.869] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_helmet as it's serializer returned null
-[16Feb2025 02:45:17.872] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_helmet_smithing as it's serializer returned null
-[16Feb2025 02:45:17.875] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:dye_ars_nouveau_helmet as it's serializer returned null
-[16Feb2025 02:45:17.883] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:dye_ars_nouveau_leggings as it's serializer returned null
-[16Feb2025 02:45:17.886] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_leggings as it's serializer returned null
-[16Feb2025 02:45:17.900] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_quartz_samurai_helmet
+[16Feb2025 02:50:57.730] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:dye_ars_nouveau_chestplate as it's serializer returned null
+[16Feb2025 02:50:57.730] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_helmet as it's serializer returned null
+[16Feb2025 02:50:57.733] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_helmet_smithing as it's serializer returned null
+[16Feb2025 02:50:57.735] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:dye_ars_nouveau_helmet as it's serializer returned null
+[16Feb2025 02:50:57.751] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:dye_ars_nouveau_leggings as it's serializer returned null
+[16Feb2025 02:50:57.756] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_leggings as it's serializer returned null
+[16Feb2025 02:50:57.765] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_quartz_samurai_helmet
 com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_samurai_helmet'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23338!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23338!/:?]
@@ -704,14 +706,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[16Feb2025 02:45:17.905] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_samruai_chestplate_mechanical_crafting as it's serializer returned null
-[16Feb2025 02:45:17.916] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_samruai_leggings_mechanical_crafting as it's serializer returned null
-[16Feb2025 02:45:17.918] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_boots_helmet as it's serializer returned null
-[16Feb2025 02:45:17.921] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_boots_array as it's serializer returned null
-[16Feb2025 02:45:17.926] [main/INFO] [Sawmill/]: Generating Sawmill Recipes
-[16Feb2025 02:45:18.226] [main/INFO] [Sawmill/]: Generated Sawmill recipes in 299 milliseconds
-[16Feb2025 02:45:18.232] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 32 recipes
-[16Feb2025 02:45:18.233] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function enemyexpansion:silver_exes
+[16Feb2025 02:50:57.772] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_samruai_chestplate_mechanical_crafting as it's serializer returned null
+[16Feb2025 02:50:57.785] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_samruai_leggings_mechanical_crafting as it's serializer returned null
+[16Feb2025 02:50:57.790] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_boots_helmet as it's serializer returned null
+[16Feb2025 02:50:57.793] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_boots_array as it's serializer returned null
+[16Feb2025 02:50:57.799] [main/INFO] [Sawmill/]: Generating Sawmill Recipes
+[16Feb2025 02:50:58.292] [main/INFO] [Sawmill/]: Generated Sawmill recipes in 492 milliseconds
+[16Feb2025 02:50:58.304] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 32 recipes
+[16Feb2025 02:50:58.306] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function enemyexpansion:silver_exes
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 25: ...erfriends <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -727,133 +729,127 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[16Feb2025 02:45:18.435] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
-[16Feb2025 02:45:18.555] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 6725 advancements
-[16Feb2025 02:45:18.560] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
-[16Feb2025 02:45:18.623] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 20 curio slots
-[16Feb2025 02:45:18.638] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio entities
-[16Feb2025 02:45:18.649] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
-[16Feb2025 02:45:18.675] [main/INFO] [com.github.nyuppo.MoreMobVariants/]: Reloading config...
-[16Feb2025 02:45:21.704] [main/INFO] [Moonlight/]: Applied 20 data villager trades
-[16Feb2025 02:45:21.764] [main/INFO] [Supplementaries/]: Finished additional setup in 0 ms
-[16Feb2025 02:45:22.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[16Feb2025 02:45:22.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[16Feb2025 02:45:22.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[16Feb2025 02:45:22.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[16Feb2025 02:45:22.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[16Feb2025 02:45:22.405] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[16Feb2025 02:45:22.468] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16Feb2025 02:45:22.469] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[16Feb2025 02:45:22.469] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16Feb2025 02:45:22.469] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[16Feb2025 02:45:22.484] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
-[16Feb2025 02:45:22.485] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
-[16Feb2025 02:45:22.486] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
-[16Feb2025 02:45:22.500] [Server thread/INFO] [Puzzles Lib/]: Loading server config for tradingpost
-[16Feb2025 02:45:22.500] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for tradingpost
-[16Feb2025 02:45:22.501] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
-[16Feb2025 02:45:22.502] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for tradingpost
-[16Feb2025 02:45:22.503] [Server thread/INFO] [Puzzles Lib/]: Loading server config for universalbonemeal
-[16Feb2025 02:45:22.504] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for universalbonemeal
-[16Feb2025 02:45:22.505] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for universalbonemeal
-[16Feb2025 02:45:22.938] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[16Feb2025 02:45:22.938] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
-[16Feb2025 02:45:22.938] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
-[16Feb2025 02:45:22.939] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[16Feb2025 02:45:22.939] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
-[16Feb2025 02:45:22.940] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[16Feb2025 02:45:22.940] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
-[16Feb2025 02:45:22.940] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
-[16Feb2025 02:45:22.940] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[16Feb2025 02:45:22.941] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
-[16Feb2025 02:45:22.943] [Server thread/INFO] [portb.configlib.ConfigLib/]: Reading stacksize ruleset
-[16Feb2025 02:45:22.948] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Starting config file watcher
-[16Feb2025 02:45:22.949] [Server thread/INFO] [Sawmill/]: Injecting Carpenter Village Houses
-[16Feb2025 02:45:22.956] [Server thread/INFO] [Framework/]: Loading server configs...
-[16Feb2025 02:45:22.997] [Server thread/INFO] [com.illusivesoulworks.radiantgear.integration.dynamiclights.DynamicLightsModule.CuriosLightSource/]: item config parser identified itemstack 1 torch
-[16Feb2025 02:45:22.998] [Server thread/INFO] [com.illusivesoulworks.radiantgear.integration.dynamiclights.DynamicLightsModule.CuriosLightSource/]: item config parser identified itemstack 1 glowstone
-[16Feb2025 02:45:22.998] [Server thread/INFO] [com.illusivesoulworks.radiantgear.integration.dynamiclights.DynamicLightsModule.CuriosLightSource/]: item config parser finished, item count: 2
-[16Feb2025 02:45:22.998] [Server thread/INFO] [com.illusivesoulworks.radiantgear.integration.dynamiclights.DynamicLightsModule.CuriosLightSource/]: item config parser identified itemstack 1 torch
-[16Feb2025 02:45:22.998] [Server thread/INFO] [com.illusivesoulworks.radiantgear.integration.dynamiclights.DynamicLightsModule.CuriosLightSource/]: item config parser finished, item count: 1
-[16Feb2025 02:45:23.017] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[16Feb2025 02:45:23.417] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[16Feb2025 02:45:23.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[16Feb2025 02:45:23.892] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[16Feb2025 02:45:32.472] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils
-[16Feb2025 02:45:32.475] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.gauntlet.GauntletEntity from class com.cerbon.bosses_of_mass_destruction.projectile.PetalBladeProjectile
-[16Feb2025 02:45:32.479] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
-[16Feb2025 02:45:32.903] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[16Feb2025 02:45:32.912] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[16Feb2025 02:45:32.938] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[16Feb2025 02:45:32.963] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[16Feb2025 02:45:32.986] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[16Feb2025 02:45:33.011] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[16Feb2025 02:45:33.018] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[16Feb2025 02:45:33.021] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[16Feb2025 02:45:33.046] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[16Feb2025 02:45:33.052] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[16Feb2025 02:45:33.072] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[16Feb2025 02:45:33.091] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[16Feb2025 02:45:33.109] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[16Feb2025 02:45:33.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[16Feb2025 02:45:33.135] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Feb2025 02:45:33.679] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Feb2025 02:45:34.144] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Feb2025 02:45:36.346] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 38%
-[16Feb2025 02:45:36.355] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 38%
-[16Feb2025 02:45:36.357] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 38%
-[16Feb2025 02:45:36.357] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 38%
-[16Feb2025 02:45:36.619] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 38%
-[16Feb2025 02:45:37.115] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 66%
-[16Feb2025 02:45:37.438] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4324 ms
-[16Feb2025 02:45:37.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.959s)! For help, type "help"
-[16Feb2025 02:45:37.529] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[16Feb2025 02:46:00.404] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[16Feb2025 02:46:00.405] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[16Feb2025 02:46:00.405] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
-[16Feb2025 02:46:37.914] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@41431270[id=<null>,name=Liraanto,properties={},legacy=false] (/100.109.72.127:51501) lost connection: Disconnected
-[16Feb2025 02:46:56.471] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Liraanto[/100.109.72.127:51503] logged in with entity id 1308 at (291.5226138737309, -11.0, 346.84255038933975)
-[16Feb2025 02:46:57.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto joined the game
-[16Feb2025 02:46:57.250] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
-[16Feb2025 02:46:57.251] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
-[16Feb2025 02:46:57.285] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
-[16Feb2025 02:47:12.816] [Server thread/INFO] [Jade/]: Syncing config to Liraanto (e3fa7a24-a6b1-32a9-9e1d-42523f649c73)
-[16Feb2025 02:47:12.882] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
-[16Feb2025 02:47:12.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[16Feb2025 02:47:12.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[16Feb2025 02:47:13.096] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liraanto lost connection: Server closed
-[16Feb2025 02:47:13.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto left the game
-[16Feb2025 02:47:13.098] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
-[16Feb2025 02:47:13.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[16Feb2025 02:47:13.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16Feb2025 02:47:13.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_2
-[16Feb2025 02:47:13.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16Feb2025 02:47:13.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_1
-[16Feb2025 02:47:13.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16Feb2025 02:47:13.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:gaster_dimension
-[16Feb2025 02:47:13.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_5
-[16Feb2025 02:47:13.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:level_0
-[16Feb2025 02:47:13.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
-[16Feb2025 02:47:13.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_3
-[16Feb2025 02:47:13.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
-[16Feb2025 02:47:13.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_0
-[16Feb2025 02:47:13.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:boiler_room_dimension
-[16Feb2025 02:47:13.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_4
-[16Feb2025 02:47:13.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16Feb2025 02:47:13.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_2): All chunks are saved
-[16Feb2025 02:47:13.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16Feb2025 02:47:13.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_1): All chunks are saved
-[16Feb2025 02:47:13.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16Feb2025 02:47:13.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gaster_dimension): All chunks are saved
-[16Feb2025 02:47:13.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_5): All chunks are saved
-[16Feb2025 02:47:13.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
-[16Feb2025 02:47:13.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
-[16Feb2025 02:47:13.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_3): All chunks are saved
-[16Feb2025 02:47:13.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
-[16Feb2025 02:47:13.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
-[16Feb2025 02:47:13.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (boiler_room_dimension): All chunks are saved
-[16Feb2025 02:47:13.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_4): All chunks are saved
-[16Feb2025 02:47:13.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[16Feb2025 02:47:13.921] [Server thread/INFO] [Framework/]: Unloading server configs...
-[16Feb2025 02:47:13.923] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
-[16Feb2025 02:47:13.926] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[16Feb2025 02:50:58.535] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
+[16Feb2025 02:50:58.660] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 6725 advancements
+[16Feb2025 02:50:58.665] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[16Feb2025 02:50:58.705] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 20 curio slots
+[16Feb2025 02:50:58.716] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio entities
+[16Feb2025 02:50:58.723] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
+[16Feb2025 02:50:58.748] [main/INFO] [com.github.nyuppo.MoreMobVariants/]: Reloading config...
+[16Feb2025 02:51:01.752] [main/INFO] [Moonlight/]: Applied 20 data villager trades
+[16Feb2025 02:51:01.802] [main/INFO] [Supplementaries/]: Finished additional setup in 0 ms
+[16Feb2025 02:51:02.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[16Feb2025 02:51:02.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[16Feb2025 02:51:02.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[16Feb2025 02:51:02.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[16Feb2025 02:51:02.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[16Feb2025 02:51:02.390] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[16Feb2025 02:51:02.466] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16Feb2025 02:51:02.467] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[16Feb2025 02:51:02.467] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16Feb2025 02:51:02.467] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[16Feb2025 02:51:02.483] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
+[16Feb2025 02:51:02.499] [Server thread/INFO] [Puzzles Lib/]: Loading server config for tradingpost
+[16Feb2025 02:51:02.500] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for tradingpost
+[16Feb2025 02:51:02.500] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
+[16Feb2025 02:51:02.501] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for tradingpost
+[16Feb2025 02:51:02.503] [Server thread/INFO] [Puzzles Lib/]: Loading server config for universalbonemeal
+[16Feb2025 02:51:02.505] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for universalbonemeal
+[16Feb2025 02:51:02.506] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for universalbonemeal
+[16Feb2025 02:51:02.904] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[16Feb2025 02:51:02.904] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
+[16Feb2025 02:51:02.904] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[16Feb2025 02:51:02.905] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[16Feb2025 02:51:02.905] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[16Feb2025 02:51:02.906] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[16Feb2025 02:51:02.907] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
+[16Feb2025 02:51:02.907] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[16Feb2025 02:51:02.907] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[16Feb2025 02:51:02.907] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[16Feb2025 02:51:02.909] [Server thread/INFO] [portb.configlib.ConfigLib/]: Reading stacksize ruleset
+[16Feb2025 02:51:02.914] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Starting config file watcher
+[16Feb2025 02:51:02.915] [Server thread/INFO] [Sawmill/]: Injecting Carpenter Village Houses
+[16Feb2025 02:51:02.921] [Server thread/INFO] [Framework/]: Loading server configs...
+[16Feb2025 02:51:02.945] [Server thread/INFO] [com.illusivesoulworks.radiantgear.integration.dynamiclights.DynamicLightsModule.CuriosLightSource/]: item config parser identified itemstack 1 torch
+[16Feb2025 02:51:02.945] [Server thread/INFO] [com.illusivesoulworks.radiantgear.integration.dynamiclights.DynamicLightsModule.CuriosLightSource/]: item config parser identified itemstack 1 glowstone
+[16Feb2025 02:51:02.945] [Server thread/INFO] [com.illusivesoulworks.radiantgear.integration.dynamiclights.DynamicLightsModule.CuriosLightSource/]: item config parser finished, item count: 2
+[16Feb2025 02:51:02.945] [Server thread/INFO] [com.illusivesoulworks.radiantgear.integration.dynamiclights.DynamicLightsModule.CuriosLightSource/]: item config parser identified itemstack 1 torch
+[16Feb2025 02:51:02.946] [Server thread/INFO] [com.illusivesoulworks.radiantgear.integration.dynamiclights.DynamicLightsModule.CuriosLightSource/]: item config parser finished, item count: 1
+[16Feb2025 02:51:03.437] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[16Feb2025 02:51:03.438] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[16Feb2025 02:51:03.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[16Feb2025 02:51:03.981] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[16Feb2025 02:51:12.932] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils
+[16Feb2025 02:51:12.935] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.gauntlet.GauntletEntity from class com.cerbon.bosses_of_mass_destruction.projectile.PetalBladeProjectile
+[16Feb2025 02:51:12.940] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
+[16Feb2025 02:51:13.376] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[16Feb2025 02:51:13.401] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[16Feb2025 02:51:13.424] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[16Feb2025 02:51:13.443] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[16Feb2025 02:51:13.464] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[16Feb2025 02:51:13.473] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[16Feb2025 02:51:13.476] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[16Feb2025 02:51:13.500] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[16Feb2025 02:51:13.508] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[16Feb2025 02:51:13.514] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[16Feb2025 02:51:13.540] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[16Feb2025 02:51:13.560] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[16Feb2025 02:51:13.581] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[16Feb2025 02:51:13.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[16Feb2025 02:51:13.688] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Feb2025 02:51:14.094] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Feb2025 02:51:14.612] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Feb2025 02:51:16.853] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 38%
+[16Feb2025 02:51:16.855] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 38%
+[16Feb2025 02:51:16.855] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 38%
+[16Feb2025 02:51:16.856] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 38%
+[16Feb2025 02:51:17.086] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
+[16Feb2025 02:51:17.407] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3821 ms
+[16Feb2025 02:51:17.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.930s)! For help, type "help"
+[16Feb2025 02:51:17.507] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[16Feb2025 02:51:40.000] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[16Feb2025 02:51:40.001] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[16Feb2025 02:51:40.002] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[16Feb2025 02:52:10.160] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Liraanto[/100.109.72.127:51635] logged in with entity id 1309 at (291.5226138737309, -11.0, 346.84255038933975)
+[16Feb2025 02:52:10.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto joined the game
+[16Feb2025 02:52:11.049] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[16Feb2025 02:52:11.051] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[16Feb2025 02:52:11.080] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[16Feb2025 02:52:26.805] [Server thread/INFO] [Jade/]: Syncing config to Liraanto (e3fa7a24-a6b1-32a9-9e1d-42523f649c73)
+[16Feb2025 02:52:26.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16813ms or 336 ticks behind
+[16Feb2025 02:52:27.531] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[16Feb2025 02:52:27.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Feb2025 02:52:27.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Feb2025 02:52:27.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Feb2025 02:52:28.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16Feb2025 02:52:28.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_2
+[16Feb2025 02:52:28.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16Feb2025 02:52:28.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_1
+[16Feb2025 02:52:28.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:gaster_dimension
+[16Feb2025 02:52:28.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_5
+[16Feb2025 02:52:28.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:level_0
+[16Feb2025 02:52:28.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[16Feb2025 02:52:28.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_3
+[16Feb2025 02:52:28.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16Feb2025 02:52:28.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[16Feb2025 02:52:28.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_0
+[16Feb2025 02:52:28.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:boiler_room_dimension
+[16Feb2025 02:52:28.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_4
+[16Feb2025 02:52:29.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16Feb2025 02:52:29.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_2): All chunks are saved
+[16Feb2025 02:52:29.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Feb2025 02:52:29.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_1): All chunks are saved
+[16Feb2025 02:52:29.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gaster_dimension): All chunks are saved
+[16Feb2025 02:52:29.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_5): All chunks are saved
+[16Feb2025 02:52:29.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[16Feb2025 02:52:29.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[16Feb2025 02:52:29.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_3): All chunks are saved
+[16Feb2025 02:52:29.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Feb2025 02:52:29.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[16Feb2025 02:52:29.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[16Feb2025 02:52:29.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (boiler_room_dimension): All chunks are saved
+[16Feb2025 02:52:29.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_4): All chunks are saved
+[16Feb2025 02:52:29.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16Feb2025 02:52:29.139] [Server thread/INFO] [Framework/]: Unloading server configs...
+[16Feb2025 02:52:29.141] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[16Feb2025 02:52:29.143] [Server thread/INFO] [Framework/]: Finished unloading server configs
