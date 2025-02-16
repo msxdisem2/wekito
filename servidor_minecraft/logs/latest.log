@@ -832,3 +832,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Feb2025 16:51:50.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
 [16Feb2025 16:52:08.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 670.500000, 126.500000, -337.500000]
 [16Feb2025 16:52:23.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 679.500000, 117.500000, -348.500000]
+[16Feb2025 16:54:22.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 862.500000, 119.500000, -600.500000]
+[16Feb2025 16:54:40.701] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=843, y=111, z=-597} BlockPos{x=844, y=111, z=-597}
+[16Feb2025 16:54:40.754] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=843, y=111, z=-597} BlockPos{x=844, y=111, z=-597}
+[16Feb2025 16:54:40.806] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=843, y=111, z=-597} BlockPos{x=844, y=111, z=-597}
+[16Feb2025 16:54:40.859] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=843, y=111, z=-597} BlockPos{x=844, y=111, z=-597}
+[16Feb2025 16:54:40.895] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=843, y=111, z=-597} BlockPos{x=844, y=111, z=-597}
+[16Feb2025 16:54:40.957] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=843, y=111, z=-597} BlockPos{x=844, y=111, z=-597}
+[16Feb2025 16:54:41.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=843, y=111, z=-597} BlockPos{x=844, y=111, z=-597}
+[16Feb2025 16:54:41.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=843, y=111, z=-597} BlockPos{x=844, y=111, z=-597}
+[16Feb2025 16:55:45.977] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[16Feb2025 16:57:43.205] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=766, y=-26, z=-611} BlockPos{x=766, y=-26, z=-610}
+[16Feb2025 16:57:43.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=766, y=-26, z=-611} BlockPos{x=766, y=-26, z=-610}
+[16Feb2025 16:57:43.293] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=766, y=-26, z=-611} BlockPos{x=766, y=-26, z=-610}
+[16Feb2025 16:57:43.352] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=766, y=-26, z=-611} BlockPos{x=766, y=-26, z=-610}
+[16Feb2025 16:58:05.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=764, y=-27, z=-605} BlockPos{x=768, y=-27, z=-599}
+[16Feb2025 16:58:05.090] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=764, y=-27, z=-605} BlockPos{x=768, y=-27, z=-599}
+[16Feb2025 16:58:05.156] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=764, y=-27, z=-605} BlockPos{x=768, y=-27, z=-599}
+[16Feb2025 16:58:05.201] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=764, y=-27, z=-605} BlockPos{x=768, y=-27, z=-599}
+[16Feb2025 16:58:05.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=764, y=-27, z=-605} BlockPos{x=768, y=-27, z=-599}
+[16Feb2025 16:58:05.301] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=764, y=-27, z=-605} BlockPos{x=768, y=-27, z=-599}
+[16Feb2025 16:58:05.348] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=764, y=-27, z=-605} BlockPos{x=768, y=-27, z=-599}
+[16Feb2025 16:58:05.390] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=764, y=-27, z=-605} BlockPos{x=768, y=-27, z=-599}
+[16Feb2025 16:58:05.456] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=764, y=-27, z=-605} BlockPos{x=768, y=-27, z=-599}
+[16Feb2025 16:58:05.500] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=764, y=-27, z=-605} BlockPos{x=768, y=-27, z=-599}
+[16Feb2025 16:58:55.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 927.500000, -28.500000, -678.500000]
+[16Feb2025 17:01:31.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 672.500000, -37.500000, -731.500000]
