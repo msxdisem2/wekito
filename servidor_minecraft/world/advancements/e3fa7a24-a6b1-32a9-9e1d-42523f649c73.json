@@ -2644,6 +2644,7 @@
   },
   "supplementaries:recipes/flags/flag_red": {
     "criteria": {
+      "has_red_wool": "2025-02-16 22:31:16 +0000",
       "has_stick": "2024-12-24 00:30:22 +0000"
     },
     "done": false
@@ -4245,6 +4246,7 @@
   },
   "cfm:recipes/decorations/red_trampoline": {
     "criteria": {
+      "has_wool": "2025-02-16 22:31:16 +0000",
       "has_iron": "2024-12-24 00:53:23 +0000"
     },
     "done": false
@@ -15908,83 +15910,95 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 17:42:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 17:42:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 17:42:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 17:42:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 17:42:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 17:42:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 17:42:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 17:42:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 17:42:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 17:42:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 17:42:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 17:42:03 +0000"
-    },
-    "done": false
-  },
   "more_recipes_and_more:bronze": {
     "criteria": {
       "bronze_0": "2025-02-16 17:11:21 +0000"
     },
     "done": true
+  },
+  "wool_collection:recipes/building_blocks/red_wool_slab": {
+    "criteria": {
+      "has_trigger_item": "2025-02-16 22:31:16 +0000"
+    },
+    "done": false
+  },
+  "wool_collection:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_trigger_item": "2025-02-16 22:31:16 +0000"
+    },
+    "done": false
+  },
+  "wool_collection:recipes/building_blocks/red_wool_fence_gate": {
+    "criteria": {
+      "has_trigger_item": "2025-02-16 22:31:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-02-16 22:31:16 +0000"
+    },
+    "done": false
+  },
+  "wool_collection:recipes/redstone/red_wool_pressure_plate": {
+    "criteria": {
+      "has_trigger_item": "2025-02-16 22:31:16 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/red_cape": {
+    "criteria": {
+      "has_red_wool": "2025-02-16 22:31:16 +0000"
+    },
+    "done": false
+  },
+  "wool_collection:recipes/decorations/red_wool_wall": {
+    "criteria": {
+      "has_trigger_item": "2025-02-16 22:31:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-02-16 22:31:16 +0000"
+    },
+    "done": false
+  },
+  "wool_collection:recipes/building_blocks/red_wool_stairs": {
+    "criteria": {
+      "has_trigger_item": "2025-02-16 22:31:16 +0000"
+    },
+    "done": false
+  },
+  "wool_collection:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_trigger_item": "2025-02-16 22:31:16 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/red_sofa": {
+    "criteria": {
+      "has_wool": "2025-02-16 22:31:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-02-16 22:31:16 +0000"
+    },
+    "done": false
+  },
+  "wool_collection:recipes/redstone/red_wool_button": {
+    "criteria": {
+      "has_trigger_item": "2025-02-16 22:31:16 +0000"
+    },
+    "done": false
+  },
+  "wool_collection:recipes/decorations/red_wool_fence": {
+    "criteria": {
+      "has_trigger_item": "2025-02-16 22:31:16 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
