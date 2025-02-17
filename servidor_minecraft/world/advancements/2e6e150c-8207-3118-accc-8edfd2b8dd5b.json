@@ -21258,104 +21258,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "more_recipes_and_more:bronze": {
     "criteria": {
-      "log_spam_fixer": "2025-02-16 23:17:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 23:17:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 23:17:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 23:17:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 23:17:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 23:17:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 23:17:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 23:17:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 23:17:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-02-16 23:17:50 +0000",
-      "log_spam_fixer": "2025-02-16 23:17:43 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 23:17:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 23:17:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "direct": "2025-02-16 23:18:00 +0000",
-      "!bit13": "2025-02-16 23:18:00 +0000",
-      "!bit12": "2025-02-16 23:18:00 +0000",
-      "!bit1": "2025-02-16 23:18:00 +0000",
-      "!bit0": "2025-02-16 23:18:00 +0000",
-      "bit9": "2025-02-16 23:18:00 +0000",
-      "bit7": "2025-02-16 23:18:00 +0000",
-      "bit8": "2025-02-16 23:18:00 +0000",
-      "bit5": "2025-02-16 23:18:00 +0000",
-      "bit14": "2025-02-16 23:18:00 +0000",
-      "bit6": "2025-02-16 23:18:00 +0000",
-      "bit3": "2025-02-16 23:18:00 +0000",
-      "bit4": "2025-02-16 23:18:00 +0000",
-      "bit2": "2025-02-16 23:18:00 +0000",
-      "target": "2025-02-16 23:18:00 +0000",
-      "bit10": "2025-02-16 23:18:00 +0000",
-      "bit11": "2025-02-16 23:18:00 +0000"
-    },
-    "done": false
-  },
-  "threateningly_mobs:titan_defeat": {
-    "criteria": {
-      "titan_defeat_0": "2025-02-16 22:55:13 +0000"
+      "bronze_0": "2025-02-16 22:38:46 +0000"
     },
     "done": true
   },
@@ -21365,9 +21270,9 @@
     },
     "done": true
   },
-  "more_recipes_and_more:bronze": {
+  "threateningly_mobs:titan_defeat": {
     "criteria": {
-      "bronze_0": "2025-02-16 22:38:46 +0000"
+      "titan_defeat_0": "2025-02-16 22:55:13 +0000"
     },
     "done": true
   },
