@@ -15956,75 +15956,207 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "wool_collection:recipes/building_blocks/red_wool_slab": {
     "criteria": {
-      "log_spam_fixer": "2025-02-16 23:17:43 +0000"
+      "has_trigger_item": "2025-02-16 22:31:16 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_kill": {
+  "wool_collection:recipes/decorations/red_banner": {
     "criteria": {
-      "log_spam_fixer": "2025-02-16 23:17:43 +0000"
+      "has_trigger_item": "2025-02-16 22:31:16 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_inventory_change": {
+  "wool_collection:recipes/building_blocks/red_wool_fence_gate": {
     "criteria": {
-      "log_spam_fixer": "2025-02-16 23:17:43 +0000"
+      "has_trigger_item": "2025-02-16 22:31:16 +0000"
     },
     "done": false
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/decorations/red_banner": {
     "criteria": {
-      "log_spam_fixer": "2025-02-16 23:17:43 +0000"
+      "has_red_wool": "2025-02-16 22:31:16 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_block": {
+  "wool_collection:recipes/redstone/red_wool_pressure_plate": {
     "criteria": {
-      "log_spam_fixer": "2025-02-16 23:17:43 +0000"
+      "has_trigger_item": "2025-02-16 22:31:16 +0000"
     },
     "done": false
   },
-  "incendium:technical/feed_ghastling": {
+  "aether:recipes/combat/red_cape": {
     "criteria": {
-      "log_spam_fixer": "2025-02-16 23:17:43 +0000"
+      "has_red_wool": "2025-02-16 22:31:16 +0000"
     },
     "done": false
   },
-  "incendium:technical/inventory/firestorm": {
+  "wool_collection:recipes/decorations/red_wool_wall": {
     "criteria": {
-      "log_spam_fixer": "2025-02-16 23:17:43 +0000"
+      "has_trigger_item": "2025-02-16 22:31:16 +0000"
     },
     "done": false
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
-      "log_spam_fixer": "2025-02-16 23:17:43 +0000"
+      "has_red_wool": "2025-02-16 22:31:16 +0000"
     },
     "done": false
   },
-  "incendium:technical/multiplex_crossbow": {
+  "wool_collection:recipes/building_blocks/red_wool_stairs": {
     "criteria": {
-      "log_spam_fixer": "2025-02-16 23:17:43 +0000"
+      "has_trigger_item": "2025-02-16 22:31:16 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_player_hurt": {
+  "wool_collection:recipes/decorations/red_carpet": {
     "criteria": {
-      "log_spam_fixer": "2025-02-16 23:17:43 +0000"
+      "has_trigger_item": "2025-02-16 22:31:16 +0000"
     },
     "done": false
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "cfm:recipes/decorations/red_sofa": {
     "criteria": {
-      "log_spam_fixer": "2025-02-16 23:17:43 +0000"
+      "has_wool": "2025-02-16 22:31:16 +0000"
     },
     "done": false
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/decorations/red_bed": {
     "criteria": {
-      "log_spam_fixer": "2025-02-16 23:17:43 +0000"
+      "has_red_wool": "2025-02-16 22:31:16 +0000"
+    },
+    "done": false
+  },
+  "wool_collection:recipes/redstone/red_wool_button": {
+    "criteria": {
+      "has_trigger_item": "2025-02-16 22:31:16 +0000"
+    },
+    "done": false
+  },
+  "wool_collection:recipes/decorations/red_wool_fence": {
+    "criteria": {
+      "has_trigger_item": "2025-02-16 22:31:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-16 22:47:03 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/decorations/sign_post_crimson": {
+    "criteria": {
+      "has_planks": "2025-02-16 22:47:03 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-16 22:47:03 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_mail_box": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-16 22:47:03 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_desk": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-16 22:47:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-02-16 22:47:03 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/crimson_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-02-16 22:47:03 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/crimson_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-02-16 22:47:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-02-16 22:47:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-02-16 22:47:03 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_table": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-16 22:47:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-02-16 22:47:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-02-16 22:47:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-16 22:47:03 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_crate": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-16 22:47:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-16 22:47:03 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_cutting_board": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-16 22:47:03 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_drawer": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-16 22:47:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-16 22:47:03 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/rope_crimson_bridge": {
+    "criteria": {
+      "has_planks": "2025-02-16 22:47:03 +0000"
     },
     "done": false
   },
@@ -16052,54 +16184,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/redstone/crimson_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-02-16 22:47:03 +0000"
-    },
-    "done": false
-  },
-  "supplementaries:recipes/decorations/sign_post_crimson": {
-    "criteria": {
-      "has_planks": "2025-02-16 22:47:03 +0000"
-    },
-    "done": false
-  },
-  "wool_collection:recipes/building_blocks/red_wool_slab": {
-    "criteria": {
-      "has_trigger_item": "2025-02-16 22:31:16 +0000"
-    },
-    "done": false
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-16 22:47:03 +0000"
-    },
-    "done": false
-  },
-  "wool_collection:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_trigger_item": "2025-02-16 22:31:16 +0000"
-    },
-    "done": false
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_mail_box": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-16 22:47:03 +0000"
-    },
-    "done": false
-  },
-  "wool_collection:recipes/building_blocks/red_wool_fence_gate": {
-    "criteria": {
-      "has_trigger_item": "2025-02-16 22:31:16 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2025-02-16 22:31:16 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2025-02-16 22:48:33 +0000"
@@ -16118,51 +16202,9 @@
     },
     "done": false
   },
-  "wool_collection:recipes/redstone/red_wool_pressure_plate": {
-    "criteria": {
-      "has_trigger_item": "2025-02-16 22:31:16 +0000"
-    },
-    "done": false
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_desk": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-16 22:47:03 +0000"
-    },
-    "done": false
-  },
-  "aether:recipes/combat/red_cape": {
-    "criteria": {
-      "has_red_wool": "2025-02-16 22:31:16 +0000"
-    },
-    "done": false
-  },
-  "wool_collection:recipes/decorations/red_wool_wall": {
-    "criteria": {
-      "has_trigger_item": "2025-02-16 22:31:16 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/crimson_slab": {
-    "criteria": {
-      "has_planks": "2025-02-16 22:47:03 +0000"
-    },
-    "done": false
-  },
-  "mcwbridges:recipes/crimson_rail_bridge": {
-    "criteria": {
-      "has_planks": "2025-02-16 22:47:03 +0000"
-    },
-    "done": false
-  },
   "supplementaries:recipes/decorations/sign_post_cherry": {
     "criteria": {
       "has_planks": "2025-02-16 22:48:33 +0000"
-    },
-    "done": false
-  },
-  "mcwbridges:recipes/crimson_log_bridge_middle": {
-    "criteria": {
-      "has_planks": "2025-02-16 22:47:03 +0000"
     },
     "done": false
   },
@@ -16184,33 +16226,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/red_carpet": {
-    "criteria": {
-      "has_red_wool": "2025-02-16 22:31:16 +0000"
-    },
-    "done": false
-  },
   "refurbished_furniture:recipes/misc/constructing/cherry_table": {
     "criteria": {
       "has_cherry_planks": "2025-02-16 22:48:33 +0000"
-    },
-    "done": false
-  },
-  "wool_collection:recipes/building_blocks/red_wool_stairs": {
-    "criteria": {
-      "has_trigger_item": "2025-02-16 22:31:16 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/crimson_sign": {
-    "criteria": {
-      "has_planks": "2025-02-16 22:47:03 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/crimson_door": {
-    "criteria": {
-      "has_planks": "2025-02-16 22:47:03 +0000"
     },
     "done": false
   },
@@ -16220,45 +16238,9 @@
     },
     "done": false
   },
-  "refurbished_furniture:recipes/misc/constructing/crimson_table": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-16 22:47:03 +0000"
-    },
-    "done": false
-  },
-  "wool_collection:recipes/decorations/red_carpet": {
-    "criteria": {
-      "has_trigger_item": "2025-02-16 22:31:16 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/crimson_fence": {
-    "criteria": {
-      "has_planks": "2025-02-16 22:47:03 +0000"
-    },
-    "done": false
-  },
-  "cfm:recipes/decorations/red_sofa": {
-    "criteria": {
-      "has_wool": "2025-02-16 22:31:16 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-02-16 22:48:33 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/red_bed": {
-    "criteria": {
-      "has_red_wool": "2025-02-16 22:31:16 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/crimson_button": {
-    "criteria": {
-      "has_planks": "2025-02-16 22:47:03 +0000"
     },
     "done": false
   },
@@ -16268,45 +16250,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/crimson_stairs": {
-    "criteria": {
-      "has_planks": "2025-02-16 22:47:03 +0000"
-    },
-    "done": false
-  },
   "mcwbridges:recipes/cherry_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-02-16 22:48:33 +0000"
     },
     "done": false
   },
-  "wool_collection:recipes/redstone/red_wool_button": {
-    "criteria": {
-      "has_trigger_item": "2025-02-16 22:31:16 +0000"
-    },
-    "done": false
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_crate": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-16 22:47:03 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2025-02-16 22:48:33 +0000"
-    },
-    "done": false
-  },
-  "wool_collection:recipes/decorations/red_wool_fence": {
-    "criteria": {
-      "has_trigger_item": "2025-02-16 22:31:16 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/crimson_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-02-16 22:47:03 +0000"
     },
     "done": false
   },
@@ -16322,33 +16274,9 @@
     },
     "done": false
   },
-  "refurbished_furniture:recipes/misc/constructing/crimson_cutting_board": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-16 22:47:03 +0000"
-    },
-    "done": false
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_drawer": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-16 22:47:03 +0000"
-    },
-    "done": false
-  },
   "refurbished_furniture:recipes/misc/constructing/cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-02-16 22:48:33 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/crimson_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-02-16 22:47:03 +0000"
-    },
-    "done": false
-  },
-  "mcwbridges:recipes/rope_crimson_bridge": {
-    "criteria": {
-      "has_planks": "2025-02-16 22:47:03 +0000"
     },
     "done": false
   },
