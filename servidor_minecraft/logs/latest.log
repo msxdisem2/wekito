@@ -776,3 +776,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Feb2025 23:40:25.574] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
 [17Feb2025 23:40:43.292] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
 [17Feb2025 23:40:45.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21026ms or 420 ticks behind
+[17Feb2025 23:55:27.067] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Liraanto[/100.109.72.127:59817] logged in with entity id 4630 at (679.1505924117201, 117.0, -347.1448408181224)
+[17Feb2025 23:55:27.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto joined the game
+[17Feb2025 23:55:27.144] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[17Feb2025 23:55:27.144] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[17Feb2025 23:55:27.144] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[17Feb2025 23:55:27.147] [Server thread/INFO] [Jade/]: Syncing config to Liraanto (e3fa7a24-a6b1-32a9-9e1d-42523f649c73)
+[17Feb2025 23:55:28.293] [Netty Epoll Server IO #3/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Liraanto: protocol version: 2.0
+[17Feb2025 23:55:28.310] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
+[17Feb2025 23:55:28.314] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Registered 7 providers for mod shulkerboxtooltip
+[17Feb2025 23:56:27.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 939.500000, 113.500000, -358.500000]
