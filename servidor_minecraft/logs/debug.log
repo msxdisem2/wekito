@@ -12062,3 +12062,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Feb2025 18:39:21.446] [Server thread/DEBUG] [tombstone/]: A new grave of the player Liraanto was created at position [x:7, y:-9, z:9, dim:minecraft:overworld]
 [17Feb2025 18:39:22.231] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['Liraanto'/1308, l='ServerLevel[world]', x=680.50, y=113.00, z=-342.50]
 [17Feb2025 18:39:22.248] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[17Feb2025 18:41:09.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Gave 1 [Ender Pearl] to Liraanto]
+[17Feb2025 18:42:28.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Feb2025 18:42:28.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Feb2025 18:42:42.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 77.500000, -54.500000, 19.500000]
+[17Feb2025 18:43:09.119] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=76, y=-51, z=26} BlockPos{x=77, y=-52, z=26}
+[17Feb2025 18:43:09.151] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=76, y=-51, z=26} BlockPos{x=77, y=-52, z=26}
+[17Feb2025 18:43:09.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=76, y=-51, z=26} BlockPos{x=77, y=-52, z=26}
+[17Feb2025 18:43:09.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=76, y=-51, z=26} BlockPos{x=77, y=-52, z=26}
+[17Feb2025 18:43:19.496] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=93, y=-47, z=26} BlockPos{x=91, y=-48, z=26}
+[17Feb2025 18:46:25.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 145.500000, -46.500000, -80.500000]
+[17Feb2025 18:46:28.319] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[17Feb2025 18:47:28.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Feb2025 18:47:28.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Feb2025 18:47:53.923] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=157, y=-48, z=-57} BlockPos{x=157, y=-49, z=-58}
+[17Feb2025 18:48:21.270] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=-52, z=-80} BlockPos{x=136, y=-52, z=-79}
+[17Feb2025 18:48:21.326] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=-52, z=-80} BlockPos{x=136, y=-52, z=-79}
+[17Feb2025 18:48:21.375] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=-52, z=-80} BlockPos{x=136, y=-52, z=-79}
+[17Feb2025 18:48:21.429] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=-52, z=-80} BlockPos{x=136, y=-52, z=-79}
+[17Feb2025 18:48:21.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=-52, z=-80} BlockPos{x=136, y=-52, z=-79}
+[17Feb2025 18:48:21.520] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=-52, z=-80} BlockPos{x=136, y=-52, z=-79}
