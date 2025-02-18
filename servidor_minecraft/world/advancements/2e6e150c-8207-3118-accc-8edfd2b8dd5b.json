@@ -4598,6 +4598,7 @@
   },
   "supplementaries:recipes/candle_holders/candle_holder": {
     "criteria": {
+      "has_candle": "2025-02-18 01:24:26 +0000",
       "has_iron_ingot": "2024-12-24 00:21:11 +0000"
     },
     "done": false
