@@ -10521,9 +10521,10 @@
   },
   "minecraft:recipes/building_blocks/deepslate_tiles": {
     "criteria": {
+      "has_the_recipe": "2025-02-18 00:06:10 +0000",
       "has_deepslate_bricks": "2024-12-28 22:50:24 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
@@ -16277,6 +16278,67 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-02-16 22:48:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-18 00:06:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-18 00:06:10 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/deepslate_tile_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-02-18 00:06:10 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/deepslate_tile_bridge": {
+    "criteria": {
+      "has_planks": "2025-02-18 00:06:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-18 00:06:10 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/balustrade_deepslate_tiles_bridge": {
+    "criteria": {
+      "has_planks": "2025-02-18 00:06:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-18 00:06:10 +0000",
+      "has_the_recipe": "2025-02-18 00:06:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-18 00:06:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-18 00:06:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-18 00:06:10 +0000"
     },
     "done": false
   },
