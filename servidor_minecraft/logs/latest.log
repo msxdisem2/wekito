@@ -21,3 +21,4 @@
 [18Feb2025 01:37:54.226] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
 [18Feb2025 01:37:54.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
 [18Feb2025 01:37:54.227] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[18Feb2025 01:42:05.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 1001.500000, 113.500000, -304.500000]
