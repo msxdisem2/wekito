@@ -780,3 +780,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Feb2025 23:11:28.483] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
 [19Feb2025 23:11:44.253] [Server thread/INFO] [Jade/]: Syncing config to Liraanto (e3fa7a24-a6b1-32a9-9e1d-42523f649c73)
 [19Feb2025 23:11:46.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19068ms or 381 ticks behind
+[19Feb2025 23:32:56.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 968.500000, 113.500000, -500.500000]
+[19Feb2025 23:39:57.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 866.500000, 113.500000, -402.500000]
