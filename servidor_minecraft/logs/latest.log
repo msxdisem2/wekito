@@ -782,3 +782,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Feb2025 23:11:46.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19068ms or 381 ticks behind
 [19Feb2025 23:32:56.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 968.500000, 113.500000, -500.500000]
 [19Feb2025 23:39:57.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 866.500000, 113.500000, -402.500000]
+[19Feb2025 23:44:29.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 955.500000, 113.500000, -524.500000]
