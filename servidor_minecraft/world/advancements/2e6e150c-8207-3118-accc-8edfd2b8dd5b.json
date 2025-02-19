@@ -17802,7 +17802,8 @@
   },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
-      "has_quartz_block": "2025-01-17 18:40:47 +0000"
+      "has_quartz_block": "2025-01-17 18:40:47 +0000",
+      "has_chiseled_quartz_block": "2025-02-19 01:04:39 +0000"
     },
     "done": false
   },
@@ -17826,7 +17827,8 @@
   },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
-      "has_quartz_block": "2025-01-17 18:40:47 +0000"
+      "has_quartz_block": "2025-01-17 18:40:47 +0000",
+      "has_chiseled_quartz_block": "2025-02-19 01:04:39 +0000"
     },
     "done": false
   },
@@ -17838,7 +17840,8 @@
   },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
-      "has_quartz_block": "2025-01-17 18:40:47 +0000"
+      "has_quartz_block": "2025-01-17 18:40:47 +0000",
+      "has_chiseled_quartz_block": "2025-02-19 01:04:39 +0000"
     },
     "done": false
   },
@@ -17874,7 +17877,8 @@
   },
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
-      "has_quartz_block": "2025-01-17 18:40:47 +0000"
+      "has_quartz_block": "2025-01-17 18:40:47 +0000",
+      "has_chiseled_quartz_block": "2025-02-19 01:04:39 +0000"
     },
     "done": false
   },
