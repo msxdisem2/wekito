@@ -3361,6 +3361,7 @@
     "criteria": {
       "oceanographytable": "2025-01-13 23:48:23 +0000",
       "brewingstand": "2024-12-24 00:19:52 +0000",
+      "grindstone": "2025-02-19 00:34:10 +0000",
       "smoker": "2024-12-28 04:13:48 +0000",
       "smithingtable": "2025-01-01 05:15:24 +0000",
       "blastfurnace": "2024-12-28 04:11:06 +0000",
@@ -3377,6 +3378,7 @@
     "criteria": {
       "oceanographytable": "2025-01-13 23:48:23 +0000",
       "brewingstand": "2024-12-24 00:19:52 +0000",
+      "grindstone": "2025-02-19 00:34:10 +0000",
       "smoker": "2024-12-24 02:59:02 +0000",
       "smithingtable": "2025-01-01 05:15:24 +0000",
       "blastfurnace": "2024-12-24 01:33:41 +0000",
@@ -13281,9 +13283,10 @@
   },
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
-      "has_stone_slab": "2024-12-31 01:02:54 +0000"
+      "has_stone_slab": "2024-12-31 01:02:54 +0000",
+      "has_the_recipe": "2025-02-19 00:34:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "aether:recipes/decorations/skyroot_grindstone": {
     "criteria": {
@@ -21276,6 +21279,30 @@
       "titan_defeat_0": "2025-02-16 22:55:13 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-19 00:34:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-19 00:34:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-19 00:34:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-19 00:34:50 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
